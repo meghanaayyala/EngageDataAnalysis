@@ -1,0 +1,1277 @@
+﻿Make,Model,Variant,Displacement,Fuel_Type,Body_Type,Seating_Capacity,City_Mileage
+Tata,Nano Genx,Xt,624 cc,Petrol,Hatchback,4,?23.6 kmpl
+Tata,Nano Genx,Xe,624 cc,Petrol,Hatchback,4,?23.6 kmpl
+Tata,Nano Genx,Emax Xm,624 cc,CNG,Hatchback,4,
+Tata,Nano Genx,Xta,624 cc,Petrol,Hatchback,4,?23.6 kmpl
+Tata,Nano Genx,Xm,624 cc,Petrol,Hatchback,4,?23.6 kmpl
+Tata,Nano Genx,Xma,624 cc,Petrol,Hatchback,4,?23.6 kmpl
+Datsun,Redi-Go,D,799 cc,Petrol,Hatchback,5,21.38 kmpl
+Datsun,Redi-Go,T,799 cc,Petrol,Hatchback,5,21.38 kmpl
+Datsun,Redi-Go,A,799 cc,Petrol,Hatchback,5,21.38 kmpl
+Datsun,Redi-Go,S,799 cc,Petrol,Hatchback,5,21.38 kmpl
+Datsun,Redi-Go,1.0 S,999 cc,Petrol,Hatchback,5,
+Datsun,Redi-Go,1.0 S Amt,999 cc,Petrol,Hatchback,5,
+Renault,Kwid,Rxe 0.8,799 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Std 0.8,799 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Rxl 0.8,799 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Rxt 0.8,799 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Rxt 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Climber 1.0 Mt,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Rxt Amt 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Climber Amt 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Rxt (O) 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Rxt (O) Amt 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Climber (O) Mt 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Renault,Kwid,Climber (O) Amt 1.0,999 cc,Petrol,Hatchback,5,25.17 kmpl
+Maruti Suzuki,Eeco,5 Str,1196 cc,Petrol,MPV,5,12 kmpl
+Maruti Suzuki,Eeco,7 Str,1196 cc,Petrol,MPV,7,12 kmpl
+Maruti Suzuki,Eeco,5 Str With Ac+Htr,1196 cc,Petrol,MPV,5,11 kmpl
+Maruti Suzuki,Eeco,5 Str With Ac+Htr Cng,1196 cc,CNG,MPV,5,
+Maruti Suzuki,Eeco,5 Str With Htr Cng,1196 cc,CNG,MPV,5,
+Maruti Suzuki,Alto K10,Lxi,998 cc,Petrol,Hatchback,5,14 kmpl
+Maruti Suzuki,Alto K10,Vxi,998 cc,Petrol,Hatchback,5,14 kmpl
+Maruti Suzuki,Alto K10,Lx,998 cc,Petrol,Hatchback,5,19 kmpl
+Maruti Suzuki,Alto K10,Vxi (O),998 cc,Petrol,Hatchback,5,14 kmpl
+Maruti Suzuki,Alto K10,Lxi Cng (O),998 cc,CNG,Hatchback,5,
+Maruti Suzuki,Alto K10,Vxi Amt (O),998 cc,Petrol,Hatchback,5,14 kmpl
+Datsun,Go,D,1198 cc,Petrol,Hatchback,5,
+Datsun,Go,T,1198 cc,Petrol,Hatchback,5,
+Datsun,Go,T (O),1198 cc,Petrol,Hatchback,5,20.6 kmpl
+Datsun,Go,A (O),1198 cc,Petrol,Hatchback,5,20.6 kmpl
+Datsun,Go,A,1198 cc,Petrol,Hatchback,5,20.6 kmpl
+Datsun,Go,T Vdc,1198 cc,Petrol,Hatchback,5,
+Datsun,Go,T (O) Vdc,1198 cc,Petrol,Hatchback,5,20.6 kmpl
+Datsun,Go,T Cvt,1198 cc,Petrol,Hatchback,5,
+Datsun,Go,T (O) Cvt,1198 cc,Petrol,Hatchback,5,20.6 kmpl
+Maruti Suzuki,Celerio Tour,H2,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio Tour,H2 Cng,998 cc,CNG,Hatchback,5,
+Hyundai,Santro,Era Mt,1086 cc,Petrol,Hatchback,5,
+Hyundai,Santro,Magna Mt,1086 cc,Petrol,Hatchback,5,
+Hyundai,Santro,Magna Mt Cng,1086 cc,CNG,Hatchback,5,
+Hyundai,Santro,Magna Amt,1086 cc,Petrol,Hatchback,5,
+Hyundai,Santro,Sportz Mt,1086 cc,Petrol,Hatchback,5,
+Hyundai,Santro,Sportz Mt Cng,1086 cc,CNG,Hatchback,5,
+Hyundai,Santro,Sportz Amt,1086 cc,Petrol,Hatchback,5,
+Hyundai,Santro,Asta Mt,1086 cc,Petrol,Hatchback,5,
+Tata,Tiago,Revotron Xe,1199 cc,Petrol,Hatchback,5,
+Tata,Tiago,Revotron Xt,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Tata,Tiago,Revotron Xz,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Tata,Tiago,Revotron Xz Plus,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Tata,Tiago,Revotron Xz Plus Dual Tone,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Tata,Tiago,Revotron Xza,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Tata,Tiago,Revotron Xza Plus,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Tata,Tiago,Revotron Xza Plus Dual Tone,1199 cc,Petrol,Hatchback,5,23.84 kmpl
+Maruti Suzuki,Celerio X,Vxi (O),998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Vxi,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Vxi Amt,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Vxi Amt (O),998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Zxi,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Zxi (O),998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Zxi Amt,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio X,Zxi Amt (O),998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Ignis,Alpha 1.2 Amt,1197 cc,Petrol,Hatchback,5,20.89 kmpl
+Maruti Suzuki,Ignis,Alpha 1.2 Mt,1197 cc,Petrol,Hatchback,5,20.89 kmpl
+Maruti Suzuki,Ignis,Delta 1.2 Amt,1197 cc,Petrol,Hatchback,5,20.89 kmpl
+Maruti Suzuki,Ignis,Delta 1.2 Mt,1197 cc,Petrol,Hatchback,5,20.89 kmpl
+Maruti Suzuki,Ignis,Sigma 1.2 Mt,1197 cc,Petrol,Hatchback,5,20.89 kmpl
+Maruti Suzuki,Ignis,Zeta 1.2 Amt,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Maruti Suzuki,Ignis,Zeta 1.2 Mt,1197 cc,Petrol,Hatchback,5,20.89 kmpl
+Renault,Triber,Rxe,999 cc,Petrol,MUV,7,
+Renault,Triber,Rxl,999 cc,Petrol,MUV,7,
+Renault,Triber,Rxt,999 cc,Petrol,MUV,7,
+Renault,Triber,Rxz,999 cc,Petrol,MUV,7,
+Premier,Rio,Gx,1173 cc,Petrol,SUV,5,13 kmpl
+Premier,Rio,Ex,1489 cc,Diesel,SUV,5,12 kmpl
+Premier,Rio,Glx,1173 cc,Petrol,SUV,5,13 kmpl
+Premier,Rio,Dx,1489 cc,Diesel,SUV,5,12 kmpl
+Premier,Rio,Lx,1489 cc,Diesel,SUV,5,12 kmpl
+Premier,Rio,Crdi4,1248 cc,Diesel,SUV,5,20 kmpl
+Toyota,Etios Liva,G,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,V,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,Gd,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Toyota,Etios Liva,Vx,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,Vxd,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Toyota,Etios Liva,Vd,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Toyota,Etios Liva,Dual Tone V,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,Dual Tone Vd,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Toyota,Etios Liva,Dual Tone Vx,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,Dual Tone Vxd,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Toyota,Etios Liva,Gx,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,Gxd,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Toyota,Etios Liva,Vx Dual Tone Limited Edition,1197 cc,Petrol,Hatchback,5,15.1 kmpl
+Toyota,Etios Liva,Vxd Dual Tone Limited Edition,1364 cc,Diesel,Hatchback,5,20.3 kmpl
+Nissan,Micra Active,Xl,1198 cc,Petrol,Hatchback,5,
+Nissan,Micra Active,Xv,1198 cc,Petrol,Hatchback,5,19.49 kmpl
+Nissan,Micra Active,Xl (O),1198 cc,Petrol,Hatchback,5,
+Tata,Bolt,Xt Diesel,1248 cc,Diesel,Hatchback,5,"22,95 kmpl"
+Tata,Bolt,Xe Diesel,1248 cc,Diesel,Hatchback,5,"22,95 kmpl"
+Tata,Bolt,Xm Diesel,1248 cc,Diesel,Hatchback,5,"22,95 kmpl"
+Tata,Bolt,Xms Diesel,1248 cc,Diesel,Hatchback,5,"22,95 kmpl"
+Tata,Bolt,Xt Petrol,1193 cc,Petrol,Hatchback,5,"17,57 kmpl"
+Tata,Bolt,Xe Petrol,1193 cc,Petrol,Hatchback,5,"17,57 kmpl"
+Tata,Bolt,Xm Petrol,1193 cc,Petrol,Hatchback,5,"17,57 kmpl"
+Tata,Bolt,Xms Petrol,1193 cc,Petrol,Hatchback,5,"17,57 kmpl"
+Hyundai,Xcent Prime,Cng T + (Cng +,1197 cc,CNG + Petrol,Sedan,5,
+Hyundai,Xcent Prime,T,1197 cc,Petrol,Sedan,5,
+Hyundai,Xcent Prime,T+,1197 cc,Petrol,Sedan,5,
+Hyundai,Xcent Prime,Cng T (Cng +,1197 cc,CNG + Petrol,Sedan,5,
+Hyundai,Xcent Prime,T+ Crdi,1197 cc,Diesel,Sedan,5,
+Hyundai,Xcent Prime,T Crdi,1197 cc,Diesel,Sedan,5,
+Maruti Suzuki,Dzire Tour,Ldi,1248 cc,Diesel,Sedan,5,14.6 kmpl
+Maruti Suzuki,Dzire Tour,Lxi,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire Tour,Lxi Cng,1197 cc,CNG,Sedan,5,
+Hyundai,Elite I20,Era 1.2,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Era 1.4 Crdi,1396 cc,Diesel,Hatchback,5,18.4 kmpl
+Hyundai,Elite I20,Magna Plus,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Magna Plus Crdi,1396 cc,Diesel,Hatchback,5,18.4 kmpl
+Hyundai,Elite I20,Sportz Plus,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Sportz Plus Crdi Dual Tone,1396 cc,Diesel,Hatchback,5,18.4 kmpl
+Hyundai,Elite I20,Asta (O) 1.2,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Asta (O) Crdi,1396 cc,Diesel,Hatchback,5,18.4 kmpl
+Hyundai,Elite I20,Asta (O) Cvt,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Sportz Plus Dual Tone,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Sportz Plus Cvt,1197 cc,Petrol,Hatchback,5,13.3 kmpl
+Hyundai,Elite I20,Sportz Plus Crdi,1396 cc,Diesel,Hatchback,5,18.4 kmpl
+Hyundai,Aura,E 1.2 Petrol,1197 cc,Petrol,Sedan,5,
+Hyundai,Aura,S 1.2 Petrol,1197 cc,Petrol,Sedan,5,
+Hyundai,Aura,S 1.2 Amt Petrol,1197 cc,Petrol,Sedan,5,
+Hyundai,Aura,Sx 1.2 Petrol,1197 cc,Petrol,Sedan,5,
+Hyundai,Aura,Sx Plus 1.2 Amt Petrol,1197 cc,Petrol,Sedan,5,
+Hyundai,Aura,Sx (O) 1.2 Petrol,1197 cc,Petrol,Sedan,5,
+Hyundai,Aura,S 1.2 Cng Petrol (Cng +,1197 cc,CNG + Petrol,Sedan,5,
+Hyundai,Aura,Sx Plus 1.0 Petrol,998 cc,Petrol,Sedan,5,
+Hyundai,Aura,S 1.2 Diesel,1186 cc,Diesel,Sedan,5,
+Hyundai,Aura,S 1.2 Amt Diesel,1186 cc,Diesel,Sedan,5,
+Hyundai,Aura,Sx Plus 1.2 Amt Diesel,1186 cc,Diesel,Sedan,5,
+Hyundai,Aura,Sx (O) 1.2 Diesel,1186 cc,Diesel,Sedan,5,
+Volkswagen,Polo,Trendline 1.0L (P),999 cc,Petrol,Hatchback,5,14 kmpl
+Volkswagen,Polo,Comfortline 1.0 (P),999 cc,Petrol,Hatchback,5,14 kmpl
+Volkswagen,Polo,Highline Plus 1.0 (P),999 cc,Petrol,Hatchback,5,14 kmpl
+Volkswagen,Polo,Trendline 1.5L (D),1498 cc,Diesel,Hatchback,5,19 kmpl
+Volkswagen,Polo,Comfortline 1.5 (D),1498 cc,Diesel,Hatchback,5,19 kmpl
+Volkswagen,Polo,Highline Plus 1.5 (D),1498 cc,Diesel,Hatchback,5,19 kmpl
+Volkswagen,Polo,Gt Tsi,1197 cc,Petrol,Hatchback,5,17 kmpl
+Volkswagen,Polo,Gt Tdi,1498 cc,Diesel,Hatchback,5,19 kmpl
+Maruti Suzuki,Dzire,Lxi,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Vxi,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Ldi,1248 cc,Diesel,Sedan,5,"28,4 kmpl"
+Maruti Suzuki,Dzire,Zxi,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Vdi,1248 cc,Diesel,Sedan,5,28.4 kmpl
+Maruti Suzuki,Dzire,Vxi Amt,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Zdi Amt,1248 cc,Diesel,Sedan,5,28.4 kmpl
+Maruti Suzuki,Dzire,Zdi,1248 cc,Diesel,Sedan,5,"28,4 kmpl"
+Maruti Suzuki,Dzire,Zxi Plus,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Zxi At,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Zxi Plus Amt,1197 cc,Petrol,Sedan,5,16.3 kmpl
+Maruti Suzuki,Dzire,Zdi Plus,1248 cc,Diesel,Sedan,5,"28,4 kmpl"
+Maruti Suzuki,Dzire,Vdi Amt,1248 cc,Diesel,Sedan,5,28.4 kmpl
+Maruti Suzuki,Dzire,Zdi Plus Amt,1248 cc,Diesel,Sedan,5,28.4 kmpl
+Ford,Freestyle,1.5L Tdci Ambiente,1498 cc,Diesel,Crossover,5,
+Ford,Freestyle,1.5L Tdci Titanium,1498 cc,Diesel,Hatchback,5,
+Ford,Freestyle,1.5L Tdci Titanium Plus,1498 cc,Diesel,Hatchback,5,
+Ford,Freestyle,1.2L Ti-Vct Ambiente,1194 cc,Petrol,Hatchback,5,
+Ford,Freestyle,1.2L Ti-Vct Titanium,1194 cc,Petrol,Hatchback,5,
+Ford,Freestyle,1.2L Ti-Vct Titanium Plus,1194 cc,Petrol,Hatchback,5,
+Ford,Freestyle,1.2L Ti-Vct Trend Plus,1194 cc,Petrol,Crossover,5,
+Ford,Freestyle,1.5L Tdci Trend Plus,1498 cc,Diesel,Crossover,5,
+Volkswagen,Ameo,Trendline 1.5L Tdi,1498 cc,Diesel,Sedan,5,15.3 kmpl
+Volkswagen,Ameo,Comfortline 1.5L Tdi,1498 cc,Diesel,Sedan,5,15.3 kmpl
+Volkswagen,Ameo,Highline Plus 1.5L Tdi Dsg,1498 cc,Diesel,Sedan,5,15.3 kmpl
+Volkswagen,Ameo,Highline Plus 1.5L Tdi,1498 cc,Diesel,Sedan,5,15.3 kmpl
+Volkswagen,Ameo,Trendline 1.0L,999 cc,Petrol,Sedan,5,
+Volkswagen,Ameo,Comfortline 1.0L,999 cc,Petrol,Sedan,5,
+Volkswagen,Ameo,Highline Plus 1.0L,999 cc,Petrol,Sedan,5,
+Volkswagen,Ameo,Gt Line Tdi Dsg,1498 cc,Diesel,Sedan,5,15.3 kmpl
+Ford,Aspire,1.2 Ti-Vct Ambiente,1194 cc,Petrol,Sedan,5,
+Ford,Aspire,1.2 Ti-Vct Trend Plus,1194 cc,Petrol,Sedan,5,
+Ford,Aspire,1.2 Ti-Vct Trend,1194 cc,Petrol,Sedan,5,
+Ford,Aspire,1.5 Tdci Ambiente,1498 cc,Diesel,Sedan,5,
+Ford,Aspire,1.5 Tdci Trend,1498 cc,Diesel,Sedan,5,
+Ford,Aspire,1.5 Tdci Trend Plus,1498 cc,Diesel,Sedan,5,
+Ford,Aspire,1.5 Tdci Titanium,1498 cc,Diesel,Sedan,5,
+Ford,Aspire,1.5 Tdci Titanium Plus,1498 cc,Diesel,Sedan,5,
+Ford,Aspire,1.2 Ti-Vct Titanium Plus,1194 cc,Petrol,Sedan,5,
+Ford,Aspire,1.2 Ti-Vct Titanium,1194 cc,Petrol,Sedan,5,
+Ford,Aspire,1.2 Trend Plus Cng,1194 cc,CNG,Sedan,5,
+Ford,Aspire,1.2 Ti-Vct Blu,1194 cc,Petrol,Sedan,5,
+Ford,Aspire,1.5 Tdci Blu,1498 cc,Diesel,Sedan,5,
+Toyota,Platinum Etios,G,1496 cc,Petrol,Sedan,5,"13,6 kmpl"
+Toyota,Platinum Etios,V,1496 cc,Petrol,Sedan,5,"13,6 kmpl"
+Toyota,Platinum Etios,Gd,1364 cc,Diesel,Sedan,5,20.32 kmpl
+Toyota,Platinum Etios,Vd,1364 cc,Diesel,Sedan,5,20.3 kmpl
+Toyota,Platinum Etios,Vxd,1364 cc,Diesel,Sedan,5,20.32 kmpl
+Toyota,Platinum Etios,Vx,1496 cc,Petrol,Sedan,5,"13,6 kmpl"
+Toyota,Platinum Etios,Gx,1496 cc,Petrol,Sedan,5,13.6 kmpl
+Toyota,Platinum Etios,Gxd,1364 cc,Diesel,Sedan,5,20.3 kmpl
+Toyota,Platinum Etios,Vxd Limited Edition,1364 cc,Diesel,Sedan,5,20.32 kmpl
+Toyota,Platinum Etios,Vx Limited Edition,1496 cc,Petrol,Sedan,5,13.6 kmpl
+Toyota,Etios Cross,V,1496 cc,Petrol,Hatchback,5,15 kmpl
+Toyota,Etios Cross,G,1197 cc,Petrol,Hatchback,5,"16,78 kmpl"
+Toyota,Etios Cross,Vd,1364 cc,Diesel,Hatchback,5,18.1 kmpl
+Toyota,Etios Cross,Gd,1364 cc,Diesel,Hatchback,5,18.1 kmpl
+Toyota,Etios Cross,1.2 X Edition,1197 cc,Petrol,Hatchback,5,16.78 kmpl
+Toyota,Etios Cross,1.4 X Edition,1364 cc,Diesel,Hatchback,5,18.1 kmpl
+Mahindra,Verito Vibe,D2,1461 cc,Diesel,Hatchback,5,18 kmpl
+Mahindra,Verito Vibe,D4,1461 cc,Diesel,Hatchback,5,18 kmpl
+Mahindra,Verito Vibe,D6,1461 cc,Diesel,Hatchback,5,18 kmpl
+Fiat,Urban Cross,1.3 Multijet Active,1248 cc,Diesel,Crossover,5,20 kmpl
+Fiat,Urban Cross,1.3 Multijet Dynamic,1248 cc,Diesel,Crossover,5,20 kmpl
+Fiat,Urban Cross,1.4 T-Jet Emotion,1368 cc,Petrol,Crossover,5,17 kmpl
+Fiat,Urban Cross,1.3 Multijet Emotion,1248 cc,Diesel,Crossover,5,20 kmpl
+Toyota,Glanza,G Hybrid,1197 cc,Petrol,Hatchback,5,
+Toyota,Glanza,V,1197 cc,Petrol,Hatchback,5,
+Toyota,Glanza,G Cvt,1197 cc,Petrol,Hatchback,5,
+Toyota,Glanza,V Cvt,1197 cc,Petrol,Hatchback,5,
+Toyota,Glanza,G Mt,1197 cc,Petrol,Hatchback,5,
+Fiat,Avventura,Multijet Dynamic,1248 cc,Diesel,Crossover,5,11.2 kmpl
+Fiat,Avventura,Multijet Active,1248 cc,Diesel,Crossover,5,11.2 kmpl
+Fiat,Avventura,Multijet Emotion,1248 cc,Diesel,Crossover,5,11.2 kmpl
+Honda,Jazz,V Petrol,1199 cc,Petrol,Hatchback,5,11.3 kmpl
+Honda,Jazz,Vx Cvt,1199 cc,Petrol,Hatchback,5,11.3 kmpl
+Honda,Jazz,Vx Petrol,1199 cc,Petrol,Hatchback,5,11.3 kmpl
+Honda,Jazz,V Cvt,1199 cc,Petrol,Hatchback,5,11.3 kmpl
+Honda,Jazz,S Diesel,1498 cc,Diesel,Hatchback,5,12 kmpl
+Honda,Jazz,V Diesel,1498 cc,Diesel,Hatchback,5,12 kmpl
+Honda,Jazz,Vx Diesel,1498 cc,Diesel,Hatchback,5,12 kmpl
+Honda,Jazz,Exclusive Edition Cvt,1199 cc,Petrol,Hatchback,5,
+Jeep,Compass Trailhawk,2.0 Trailhawk 4X4 At,1956 cc,Diesel,SUV,5,
+Jeep,Compass Trailhawk,2.0 Trailhawk (O) 4X4 At,1956 cc,Diesel,SUV,5,
+Isuzu,Mu-X,4X2,2999 cc,Diesel,SUV,7,13.8 kmpl
+Isuzu,Mu-X,4X4,2999 cc,Diesel,SUV,7,13.8 kmpl
+Mahindra,Alturas G4,2Wd At,2157 cc,Diesel,,,
+Mahindra,Alturas G4,4Wd At,2157 cc,Diesel,SUV,7,
+Volkswagen,Tiguan,Comfortline 2.0L Tdi Amt,1968 cc,Diesel,SUV,5,
+Volkswagen,Tiguan,Highline 2.0L Tdi Amt,1968 cc,Diesel,SUV,,
+Honda,Cr-V,2Wd Petrol Cvt,1997 cc,Petrol,SUV,5,
+Honda,Cr-V,2Wd Diesel At,1597 cc,Diesel,SUV,7,
+Honda,Cr-V,Awd Diesel At,1597 cc,Diesel,SUV,7,
+Skoda,Superb Sportline,Sportline 1.8L Tsi At,1798 cc,Petrol,Sedan,5,11.3 kmpl
+Skoda,Superb Sportline,Sportline 2.0L Tdi At,1968 cc,Diesel,Sedan,5,15.1 kmpl
+Audi,A3,35 Tdi Premium Plus,1968 cc,Diesel,Sedan,5,18 kmpl
+Audi,A3,35 Tdi Technology,1968 cc,Diesel,Sedan,5,18 kmpl
+Audi,A3,35 Tfsi Premium Plus,1395 cc,Petrol,Sedan,5,12.4 kmpl
+Audi,A3,35 Tfsi Technology,1395 cc,Petrol,Sedan,5,12.4 kmpl
+,Mercedes-Benz B-Class,B 180 Sport,1595 cc,Petrol,MPV,5,9.5 kmpl
+,Mercedes-Benz B-Class,B 200 Cdi Sport,2143 cc,Diesel,MPV,5,11.5 kmpl
+,Mercedes-Benz B-Class,B 180 Night Edition,1595 cc,Petrol,MPV,5,9.5 kmpl
+,Mercedes-Benz B-Class,B 200 Cdi Night Edition,2143 cc,Diesel,MPV,5,11.5 kmpl
+,Mercedes-Benz Cla-Class,200 Sport,1991 cc,Petrol,Sedan,5,11.04 kmpl
+,Mercedes-Benz Cla-Class,200 Cdi Style,2143 cc,Diesel,Sedan,5,13.9 kmpl
+,Mercedes-Benz Cla-Class,200 D Sport,2143 cc,Diesel,Sedan,5,13.9 kmpl
+Skoda,Kodiaq,Style 2.0 Tdi 4X4 At,1968 cc,Diesel,SUV,5,15.1 kmpl
+Skoda,Kodiaq,Laurin And Klement,1968 cc,Diesel,SUV,5,15.1 kmpl
+Skoda,Kodiaq,Corporate Edition,1968 cc,Diesel,SUV,5,15.1 kmpl
+Dc,Avanti,Standard,2000 cc,Petrol,Coupe,2,8 kmpl
+Audi,Q3,30 Tdi Premium Fwd,1968 cc,Diesel,SUV,5,12 kmpl
+Audi,Q3,35 Tdi Quattro Premium Plus,1968 cc,Diesel,SUV,5,12 kmpl
+Audi,Q3,35 Tdi Quattro Technology,1968 cc,Diesel,SUV,5,12 kmpl
+Audi,Q3,30 Tfsi Premium,1395 cc,Petrol,SUV,5,12 kmpl
+Mini,Cooper 5 Door,Cooper D,1496 cc,Petrol,Hatchback,5,10.3 kmpl
+Mini,Convertible,Cooper S,1998 cc,Petrol,Convertible,4,
+Volvo,Xc40,D4 Momentum,1969 cc,Diesel,SUV,5,
+Volvo,Xc40,D4 Inscription,1969 cc,Diesel,SUV,5,
+Volvo,Xc40,T4 R-Design,1969 cc,Petrol,SUV,5,
+Mini,Clubman,Cooper S,1998 cc,Petrol,Hatchback,5,12.3 kmpl
+Audi,A4,Premium Plus 35 Tfsi,1395 cc,Petrol,Sedan,5,
+Audi,A4,Technology 35 Tfsi,1395 cc,Petrol,Sedan,5,
+Mini,John Cooper Works,Hatch,1998 cc,Petrol,"Sports, Hatchback",2,
+Jaguar,Xe,S Petrol,1997 cc,Petrol,Sedan,5,
+Jaguar,Xe,S Diesel,1999 cc,Diesel,Sedan,4,
+Jaguar,Xe,Se Diesel,1999 cc,Diesel,Sedan,4,
+Jaguar,Xe,Se Petrol,1997 cc,Petrol,Sedan,5,
+Jaguar,Xf,2.0 Prestige,1999 cc,Petrol,Sedan,5,5.7 kmpl
+Jaguar,Xf,2.0 Portfolio,1999 cc,Petrol,Sedan,5,5.7 kmpl
+Jaguar,Xf,2.0 Portfolio Diesel,1999 cc,Diesel,Sedan,5,5.7 kmpl
+Jaguar,Xf,2.0 Prestige Diesel,1999 cc,Diesel,Sedan,5,5.7 kmpl
+Jaguar,Xf,2.0 Pure Diesel,1999 cc,Diesel,Sedan,5,5.7 kmpl
+Audi,A3 Cabriolet,40 Tfsi,1395 cc,Petrol,Convertible,4,19.2 kmpl
+Audi,A6,Premium Plus 45 Tfsi,1984 cc,Petrol,Sedan,5,
+Audi,A6,Technology 45 Tfsi,1984 cc,Petrol,Sedan,5,
+Bmw,X3,Xdrive 20D Luxury Line,1995 cc,Diesel,SUV,5,16 kmpl
+Bmw,X3,Xdrive 30I Luxury Line,1998 cc,Petrol,SUV,5,16 kmpl
+Bmw,X3,Xdrive20D Xline,1995 cc,Diesel,SUV,5,16 kmpl
+Land Rover,Discovery Sport,S,1999 cc,Diesel,SUV,7,
+Land Rover,Discovery Sport,R-Dynamic Se,1999 cc,Diesel,SUV,7,
+Volvo,S90,D4 Inscription,1969 cc,Diesel,Sedan,5,"11,44 kmpl"
+Audi,S5,Sportback,2995 cc,Petrol,Sedan,5,
+Bmw,X5,Xdrive30D Sport,2993 cc,Diesel,SUV,5,
+Bmw,X5,Xdrive30D Xline,2993 cc,Diesel,SUV,5,
+Bmw,X5,Xdrive40I M Sport,2998 cc,Petrol,SUV,5,
+Ford,Mustang,Fastback V8,4951 cc,Petrol,"Sedan, Coupe",4,10 kmpl
+Jeep,Grand Cherokee,Limited,2987 cc,Diesel,SUV,5,12.8 kmpl
+Jeep,Grand Cherokee,Summit,2987 cc,Diesel,SUV,5,12.8 kmpl
+Jeep,Grand Cherokee,Srt,6417 cc,Petrol,SUV,5,12.8 kmpl
+Jeep,Grand Cherokee,Summit Petrol,3604 cc,Petrol,SUV,5,
+,Mercedes-Benz E-Class Cabriolet,E400,2996 cc,Petrol,Convertible,4,4.5 kmpl
+Bmw,M2 Competition,Coupe,2979 cc,Petrol,Coupe,4,12.5-12.7 kmpl
+Porsche,718,Boxster,1988 cc,Petrol,Convertible,2,9 kmpl
+Porsche,718,Cayman,1988 cc,Petrol,Coupe,2,9 kmpl
+,Mercedes-Benz Gls,350 Cdi,2987 cc,Diesel,SUV,5,6.5 kmpl
+,Mercedes-Benz Gls,63 Amg,5461 cc,Petrol,SUV,7,9 kmpl
+,Mercedes-Benz Gls,400 4Matic,2996 cc,Petrol,SUV,7,9 kmpl
+,Mercedes-Benz Gls,Grand Edition Petrol,2996 cc,Petrol,SUV,7,9 kmpl
+,Mercedes-Benz Gls,Grand Edition Diesel,2987 cc,Diesel,SUV,5,6.5 kmpl
+Toyota,Land Cruiser Prado,Vx L,2982 cc,Diesel,SUV,7,7 kmpl
+Lexus,Rx 450H,450Hl Luxury,3456 cc,Petrol,SUV,5,18.8 kmpl
+Audi,Rs5,Coupe,2894 cc,Petrol,Coupe,4,
+Bmw,7-Series,730Ld Design Pure Excellence,2993 cc,Diesel,Sedan,4,13.5 kmpl
+Bmw,7-Series,730Ld Design Pure Excellence Signature,2993 cc,Diesel,Sedan,4,13.5 kmpl
+Bmw,7-Series,730Ld M Sport,2993 cc,Diesel,Sedan,4,13.5 kmpl
+Bmw,7-Series,740Li Design Pure Excellence Signature,2998 cc,Petrol,Sedan,4,
+Bmw,7-Series,745Le Xdrive,2998 cc,Hybrid,Sedan,4,
+Bmw,7-Series,M760Li Xdrive,6592 cc,Petrol,Sedan,4,
+Audi,Q8,55 Tfsi Quattro Tiptronic,2995 cc,Petrol,SUV,7,
+,Mercedes-Benz S-Class,S 350 D,2987 cc,Diesel,Sedan,5,9 kmpl
+,Mercedes-Benz S-Class,S 450,2996 cc,Petrol,Sedan,5,5.4 kmpl
+,Mercedes-Benz S-Class,Amg S 63 Coupe,3982 cc,Petrol,Coupe,4,5.4 kmpl
+Maserati,Levante,Diesel,2987 cc,Diesel,SUV,4,5.2 kmpl
+Maserati,Levante,Gransport,2979 cc,Diesel,SUV,4,5.2 kmpl
+Maserati,Levante,Granlusson,2979 cc,Diesel,SUV,4,5.2 kmpl
+,Mercedes-Benz G-Class,Amg G 63,3982 cc,Petrol,SUV,7,
+,Mercedes-Benz G-Class,G 350D,2925 cc,Diesel,SUV,7,
+Audi,A8 L,55 Tfsi Quattro,2995 cc,Petrol,Sedan,4,
+Maserati,Granturismo,Sport,4691 cc,Petrol,Coupe,4,4.6 kmpl
+Maserati,Quattroporte,Granlusso,2987 cc,Diesel,Sports,4,5.2 kmpl
+Lexus,Lc 500H,Coupe,3456 cc,Hybrid,Coupe,4,
+,Mercedes-Benz Maybach,S650,5980 cc,Petrol,Sedan,4,
+,Mercedes-Benz Maybach,S560,4663 cc,Petrol,Sedan,4,7.81 kmpl
+Porsche,Panamera,Turbo,3996 cc,Petrol,Sedan,4,7.1 kmpl
+Porsche,Panamera,Turbo Executive,3996 cc,Petrol,Sedan,4,7.1 kmpl
+Porsche,Panamera,Turbo Sport Turismo,3996 cc,Petrol,Sedan,4,7.1 kmpl
+Lexus,Lx 450D,V8,4461 cc,Diesel,SUV,7,18 kmpl
+,Mercedes-Benz S-Class Cabriolet,S500,4663 cc,Petrol,Convertible,4,5.4 kmpl
+Audi,R8,V10 Plus,5204 cc,Petrol,Coupe,2,7.8 kmpl
+Lamborghini,Urus,V8,3996 cc,Petrol,SUV,5,
+Bentley,Continental Gt,Coupe,5998 cc,Petrol,Coupe,4,5.3 kmpl
+Ferrari,Portofino,V8 Convertible,3855 cc,Petrol,Convertible,2,6 kmpl
+Bentley,Bentayga,W12,5950 cc,Petrol,SUV,5,"9,6 kmpl"
+Bentley,Bentayga,V8,3996 cc,Petrol,SUV,5,
+Aston Martin,Db 11,V12,5198 cc,Petrol,Coupe,2,6 kmpl
+Ferrari,458 Speciale,Coupe,4497 cc,Petrol,Coupe,2,6 kmpl
+,Rolls-Royce Ghost Series Ii,6.6,6593 cc,Petrol,Sedan,5,10.5 kmpl
+,Rolls-Royce Ghost Series Ii,Ewb,6592 cc,Petrol,Sedan,5,
+,Rolls-Royce Wraith,Coupe,6592 cc,Petrol,Coupe,4,4.7 kmpl
+Bentley,Mulsanne,Sedan,6752 cc,Petrol,Sedan,4,6.2 kmpl
+,Rolls-Royce Cullinan,Suv,6750 cc,Petrol,SUV,5,
+,Rolls-Royce Phantom Coupe,6.8 L,6749 cc,Petrol,Coupe,4,10.2 kmpl
+Bugatti,Chiron,W16,7993 cc,Petrol,Sports,2,
+Bugatti,Chiron,Sport,7993 cc,Petrol,Sports,2,
+Bajaj,Qute (Re60),Qcar,216 cc,Petrol,Hatchback,4,
+Bajaj,Qute (Re60),Qcar Cng,216 cc,CNG,Hatchback,4,
+Maruti Suzuki,Alto,Std,796 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Std (O),796 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Lxi,796 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Lxi (O),796 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Vxi,796 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Lxi Cng (Cng +,796 cc,CNG + Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Lxi (O) Cng (Cng +,796 cc,CNG + Petrol,Hatchback,5,
+Maruti Suzuki,Alto,Vxi Plus,796 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Std,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Std (O),998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Lxi,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Lxi (O),998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Vxi,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Vxi (O),998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Vxi Ags,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Vxi+,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Vxi (O) Ags,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,S-Presso,Vxi+ Ags,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Celerio,Lxi,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Vxi,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Vxi At,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Zxi,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Zxi (Opt),998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Vxi Cng Mt,998 cc,CNG,Hatchback,5,
+Maruti Suzuki,Celerio,Zxi Ags,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Lxi Mt (O),998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Vxi (O) Mt,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Vxi (O) Ags,998 cc,Petrol,Hatchback,5,23 kmpl
+Maruti Suzuki,Celerio,Zxi (O) Ags,998 cc,Petrol,Hatchback,5,23 kmpl
+Hyundai,Grand I10 Prime,Era T Crdi,1120 cc,Diesel,Hatchback,5,24 kmpl
+Hyundai,Grand I10 Prime,Era T+ Crdi,1120 cc,Diesel,Hatchback,5,24 kmpl
+Hyundai,Grand I10 Prime,Era T Vtvt,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10 Prime,Era T+ Vtvt,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10 Prime,Era T+ Cng Vtvt,1197 cc,CNG,Hatchback,5,
+Hyundai,Grand I10 Prime,Era T Cng Vtvt,1197 cc,CNG,Hatchback,5,
+Mahindra,Kuv100 Nxt,K2 6Str,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Mahindra,Kuv100 Nxt,K2+ 6Str,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Mahindra,Kuv100 Nxt,K2 D 6Str,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K2+ D 6Str,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K4+ D 6Str,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K4+ 6Str,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Mahindra,Kuv100 Nxt,K6+ 6Str,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Mahindra,Kuv100 Nxt,K6+ D 6Str,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K8 6Str,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Mahindra,Kuv100 Nxt,K8 D 6Str,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K8 6 Str Dual Tone,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Mahindra,Kuv100 Nxt,K8 D 6 Str Dual Tone,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K4+ 5Str,1198 cc,Petrol,Hatchback,5,15.5 kmpl
+Mahindra,Kuv100 Nxt,K6+ 5Str,1198 cc,Petrol,Hatchback,5,15.5 kmpl
+Mahindra,Kuv100 Nxt,K8 5Str,1198 cc,Petrol,Hatchback,5,15.5 kmpl
+Mahindra,Kuv100 Nxt,K4+ D 5Str,1198 cc,Diesel,Hatchback,5,22.25 kmpl
+Mahindra,Kuv100 Nxt,K6+ D 5Str,1198 cc,Diesel,Hatchback,5,22.25 kmpl
+Mahindra,Kuv100 Nxt,K8 D 5Str,1198 cc,Diesel,Hatchback,5,22.25 kmpl
+Mahindra,Kuv100 Nxt,K2 D 5Str Taxi,1198 cc,Diesel,Hatchback,5,22.25 kmpl
+Mahindra,Kuv100 Nxt,K2 D 6Str Taxi,1198 cc,Diesel,Hatchback,6,22.25 kmpl
+Mahindra,Kuv100 Nxt,K2 5Str Cng Taxi,1198 cc,Petrol,Hatchback,5,15.5 kmpl
+Mahindra,Kuv100 Nxt,K2 6Str Cng Taxi,1198 cc,Petrol,Hatchback,6,15.5 kmpl
+Maruti Suzuki,Swift,Lxi,1197 cc,Petrol,Hatchback,5,12.6 kmpl
+Maruti Suzuki,Swift,Vxi,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Swift,Vxi Amt,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Swift,Zxi,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Swift,Zxi Amt,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Swift,Zxi Plus,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Swift,Ldi,1248 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Swift,Vdi,1248 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Swift,Vdi Amt,1248 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Swift,Zdi,1248 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Swift,Zdi Amt,1248 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Swift,Zdi Plus,1248 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Swift,Zxi Plus Amt,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki,Swift,Zdi Plus Amt,1248 cc,Diesel,Hatchback,5,
+Tata,Altroz,Xe Petrol,1199 cc,Petrol,Hatchback,5,
+Tata,Altroz,Xm Petrol,1199 cc,Petrol,Hatchback,5,
+Tata,Altroz,Xt Petrol,1199 cc,Petrol,Hatchback,5,
+Tata,Altroz,Xz Petrol,1199 cc,Petrol,Hatchback,5,
+Tata,Altroz,Xz (O) Petrol,1199 cc,Petrol,Hatchback,5,
+Tata,Altroz,Xe Diesel,1497 cc,Diesel,Hatchback,5,
+Tata,Altroz,Xm Diesel,1497 cc,Diesel,Hatchback,5,
+Tata,Altroz,Xt Diesel,1497 cc,Diesel,Hatchback,5,
+Tata,Altroz,Xz Diesel,1497 cc,Diesel,Hatchback,5,
+Tata,Altroz,Xz (O) Diesel,1497 cc,Diesel,Hatchback,5,
+Icml,Extreme,Ld Di Non Ac 9 Seater Bsiii,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Ld Crdfi Non Ac 9 Seater Bsiv,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Ld Di Ps Ac 9 Seater Bsiii,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Ld Crdfi Ps Ac 9 Seater Bsiii,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Sd Di 9 Seater Bsiii,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Ld Crdfi Ps Ac 9 Seater Bsiv,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Vd Crdfi 7 Seater Bsiii,1994 cc,Diesel,SUV,7,8.6 kmpl
+Icml,Extreme,Vd Di 7 Seater Bsiii,1994 cc,Diesel,SUV,7,8.6 kmpl
+Icml,Extreme,Sd Crdfi 9 Seater Bsiv,1994 cc,Diesel,SUV,9,8.6 kmpl
+Icml,Extreme,Vd Crdfi 7 Seater Bsiv,1994 cc,Diesel,SUV,7,8.6 kmpl
+Icml,Extreme,Sd Crdfi 9 Seater Bsiii,1994 cc,Diesel,SUV,9,8.6 kmpl
+Tata,Tigor,Revotron Xe,1199 cc,Petrol,Sedan,5,24.12 kmpl
+Tata,Tigor,Revotron Xm,1199 cc,Petrol,Sedan,5,24.12 kmpl
+Tata,Tigor,Revotron Xz,1199 cc,Petrol,Sedan,5,24.12 kmpl
+Tata,Tigor,Revotron Xz Plus,1199 cc,Petrol,Sedan,5,24.12 kmpl
+Tata,Tigor,Revotron Xma,1199 cc,Petrol,Sedan,5,24.12 kmpl
+Tata,Tigor,Revotron Xza Plus,1199 cc,Petrol,Sedan,5,24.12 kmpl
+Tata,Zest,Xe Petrol,1193 cc,Petrol,Sedan,5,13.2 kmpl
+Tata,Zest,Xe Diesel,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Tata,Zest,Xm Petrol,1193 cc,Petrol,Sedan,5,13.2 kmpl
+Tata,Zest,Xms Petrol,1193 cc,Petrol,Sedan,5,13.2 kmpl
+Tata,Zest,Xt Petrol,1193 cc,Petrol,Sedan,5,13.2 kmpl
+Tata,Zest,Xm Diesel,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Tata,Zest,Xms Diesel,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Tata,Zest,Xt Diesel,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Tata,Zest,Xma Diesel,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Tata,Zest,Xta Diesel,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Tata,Zest,Zest Premio Edition,1248 cc,Diesel,Sedan,5,19.2 kmpl
+Honda,Amaze,S Cvt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,E Mt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,E Mt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,S Cvt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,V Cvt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,V Cvt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,S Mt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,Vx Mt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,V Mt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,Vx Mt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,V Mt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,S Mt Petrol,1198 cc,Petrol,Sedan,5,
+Honda,Amaze,Exclusive Edition Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,Exclusive Edition Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,Vx Cvt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,Vx Cvt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,Ace Edition Cvt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,Ace Edition Cvt Petrol,1199 cc,Petrol,Sedan,5,
+Honda,Amaze,Ace Edition Mt Diesel,1498 cc,Diesel,Sedan,5,
+Honda,Amaze,Ace Edition Mt Petrol,1199 cc,Petrol,Sedan,5,
+Maruti Suzuki,Gypsy,Hard Top,1298 cc,Petrol,SUV,8,10.2 kmpl
+Maruti Suzuki,Gypsy,Soft Top,1298 cc,Petrol,SUV,8,10.2 kmpl
+Hyundai,Venue,1.2 Kappa Mt E,1197 cc,Petrol,SUV,5,
+Hyundai,Venue,1.0 Turbo Gdi Mt S,998 cc,Petrol,SUV,5,
+Hyundai,Venue,1.4 Crdi Mt E,1397 cc,Diesel,SUV,5,
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx,998 cc,Petrol,SUV,5,
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx Dual Tone,998 cc,Petrol,SUV,5,
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx(O),998 cc,Petrol,SUV,5,
+Hyundai,Venue,1.0 Turbo Gdi Dct S,998 cc,Petrol,SUV,5,
+Hyundai,Venue,1.0 Turbo Gdi Dct Sx Plus,998 cc,Petrol,SUV,5,
+Hyundai,Venue,1.2 Kappa Mt S,1197 cc,Petrol,SUV,5,
+Hyundai,Venue,1.4 Crdi Mt S,1397 cc,Diesel,SUV,5,
+Hyundai,Venue,1.4 Crdi Mt Sx,1397 cc,Diesel,SUV,5,
+Hyundai,Venue,1.4 Crdi Mt Sx Dual Tone,1397 cc,Diesel,SUV,5,
+Hyundai,Venue,1.4 Crdi Mt Sx(O),1397 cc,Diesel,SUV,5,
+Tata,Nexon,Xe,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xm,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xz,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xz Plus,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xz Plus Dual Tone,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xz Plus (O),1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xz Plus (O) Dual Tone,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xma,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xza Plus,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xza Plus Dual Tone,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xza Plus (O),1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xza Plus (O) Dual Tone,1198 cc,Petrol,SUV,5,
+Tata,Nexon,Xe Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xm Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xz Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xz Plus Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xz Plus Diesel Dual Tone,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xz Plus (O) Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xz Plus (O) Diesel Dual Tone,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xma Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xza Plus Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xza Plus Diesel Dual Tone,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xza Plus (O) Diesel,1497 cc,Diesel,SUV,5,
+Tata,Nexon,Xza Plus (O) Diesel Dual Tone,1497 cc,Diesel,SUV,5,
+Fiat,Linea,Active Fire,1368 cc,Petrol,Sedan,5,"11,3 kmpl"
+Fiat,Linea,Active Multijet,1248 cc,Diesel,Sedan,5,17.2 kmpl
+Fiat,Linea,Dynamic Multijet,1248 cc,Diesel,Sedan,5,17.2 kmpl
+Fiat,Linea,Emotion Multijet,1248 cc,Diesel,Sedan,5,17.2 kmpl
+Fiat,Linea,T-Jet Emotion,1368 cc,Petrol,Sedan,5,"11,3 kmpl"
+Mahindra,Bolero Power Plus,Zlx,1493 cc,Diesel,SUV,7,12.4 kmpl
+Mahindra,Bolero Power Plus,Slx,1493 cc,Diesel,SUV,7,12.4 kmpl
+Mahindra,Bolero Power Plus,Sle,1493 cc,Diesel,SUV,7,12.4 kmpl
+Mahindra,Bolero Power Plus,Lx,1493 cc,Diesel,SUV,7,12.4 kmpl
+Mahindra,Bolero Power Plus,Plus Ac Bs4 Ps,2523 cc,Diesel,SUV,7,9.4 kmpl
+Mahindra,Bolero Power Plus,Plus Non Ac Bs4 Ps,2523 cc,Diesel,SUV,9,12.4 kmpl
+Maruti Suzuki,Vitara Brezza,Ldi,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Vdi,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Zdi,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Zdi+,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Zdi+ Ags,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Vdi Ags,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Zdi Ags,1248 cc,Diesel,SUV,5,20 kmpl
+Maruti Suzuki,Vitara Brezza,Zdi+ Dual Tone Ags,1248 cc,Diesel,SUV,5,20 kmpl
+Hyundai,I20 Active,1.2 S,1197 cc,Petrol,Hatchback,5,15 kmpl
+Hyundai,I20 Active,1.2 Sx,1197 cc,Petrol,Hatchback,5,15 kmpl
+Hyundai,I20 Active,1.2 Sx Dual Tone,1197 cc,Petrol,Hatchback,5,15 kmpl
+Hyundai,I20 Active,1.4 Sx,1396 cc,Diesel,Hatchback,5,21.19 kmpl
+Ford,Ecosport,1.5L Ti-Vct Ambiente,1497 cc,Petrol,SUV,5,
+Ford,Ecosport,1.5L Ti-Vct Trend,1497 cc,Petrol,SUV,5,
+Ford,Ecosport,1.5L Ti-Vct Titanium,1497 cc,Petrol,SUV,5,
+Ford,Ecosport,1.5L Ti-Vct Titanium Plus At,1497 cc,Petrol,SUV,5,
+Ford,Ecosport,1.5L Tdci Ambiente,1498 cc,Diesel,SUV,5,
+Ford,Ecosport,1.5L Tdci Trend,1498 cc,Diesel,SUV,5,
+Ford,Ecosport,1.5L Tdci Titanium,1498 cc,Diesel,SUV,5,
+Ford,Ecosport,1.5L Tdci Titanium Plus,1498 cc,Diesel,SUV,5,
+Ford,Ecosport,1.5L Ti-Vct Titanium Plus,1497 cc,Petrol,SUV,5,
+Ford,Ecosport,1.5L Tdci Titanium S,1498 cc,Diesel,SUV,5,
+Ford,Ecosport,1.5L Ti-Vct Thunder Edition,1497 cc,Petrol,SUV,5,
+Ford,Ecosport,1.5L Tdci Thunder Edition,1498 cc,Diesel,SUV,5,
+Renault,Duster,Rxe Petrol,1498 cc,Petrol,SUV,5,10.2 kmpl
+Renault,Duster,Rxs Petrol,1498 cc,Petrol,SUV,5,10 kmpl
+Renault,Duster,Rxs (Opt) Cvt,1498 cc,Petrol,SUV,5,10 kmpl
+Renault,Duster,85 Ps Rxe Mt Diesel,1461 cc,Diesel,SUV,5,16 kmpl
+Renault,Duster,85 Ps Rxs Mt Diesel,1461 cc,Diesel,SUV,5,16 kmpl
+Renault,Duster,110 Ps Rxs Mt Diesel,1461 cc,Diesel,SUV,5,16 kmpl
+Renault,Duster,110 Ps Rxz Mt Diesel,1461 cc,Diesel,SUV,5,16 kmpl
+Renault,Duster,110 Ps Rxz Amt Diesel,1461 cc,Diesel,SUV,5,16 kmpl
+Renault,Duster,110 Ps Rxs Awd (Opt) Diesel,1461 cc,Diesel,SUV,5,16 kmpl
+Hyundai,Verna,1.6 Vtvt Sx,1591 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.6 Crdi Sx,1582 cc,Diesel,Sedan,5,19.9 kmpl
+Hyundai,Verna,1.6 Crdi Sx (O),1582 cc,Diesel,Sedan,5,19.9 kmpl
+Hyundai,Verna,1.6 Vtvt Sx (O),1591 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.6 Crdi Sx Plus At,1582 cc,Diesel,Sedan,5,14 kmpl
+Hyundai,Verna,1.6 Vtvt Sx(O) At,1591 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.4 Vtvt Ex,1396 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.4 Vtvt E,1396 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.6 Vtvt Sx (O) Anniversary Edition,1591 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.6 Vtvt Sx Plus At,1591 cc,Petrol,Sedan,5,
+Hyundai,Verna,1.6 Crdi Sx(O) At,1582 cc,Diesel,Sedan,5,14 kmpl
+Hyundai,Verna,1.4 Crdi E,1396 cc,Diesel,Sedan,5,
+Hyundai,Verna,1.4 Crdi Ex,1396 cc,Diesel,Sedan,5,
+Mahindra,Xuv300,1.2 W4,1197 cc,Petrol,SUV,5,
+Mahindra,Xuv300,1.2 W6,1197 cc,Petrol,SUV,5,
+Mahindra,Xuv300,1.2 W8,1197 cc,Petrol,SUV,5,
+Mahindra,Xuv300,1.2 W8(O),1197 cc,Petrol,SUV,5,
+Mahindra,Xuv300,1.5 W4,1497 cc,Diesel,SUV,5,
+Mahindra,Xuv300,1.5 W6,1497 cc,Diesel,SUV,5,
+Mahindra,Xuv300,1.5 W8,1497 cc,Diesel,SUV,5,
+Mahindra,Xuv300,1.5 W8 (O),1497 cc,Diesel,SUV,5,
+Mahindra,Xuv300,1.5 W8 Amt,1497 cc,Diesel,SUV,5,
+Mahindra,Xuv300,1.5 W8 (O) Amt,1497 cc,Diesel,SUV,5,
+Mahindra,Xuv300,1.5 W6 Amt,1497 cc,Diesel,SUV,5,
+Renault,Lodgy,85 Ps Std,1461 cc,Diesel,MUV,8,21.04 kmpl
+Renault,Lodgy,85 Ps Rxe 8 Seater,1461 cc,Diesel,MUV,8,21.04 kmpl
+Renault,Lodgy,Stepway Rxz 110Ps 8-Seater,1461 cc,Diesel,MUV,,21.04 kmpl
+Renault,Lodgy,Stepway Rxz 110Ps 7-Seater,1461 cc,Diesel,MUV,7,21.04 kmpl
+Renault,Lodgy,Stepway Rxl 85Ps 8-Seater,1461 cc,Diesel,MUV,8,21.04 kmpl
+Renault,Lodgy,Stepway Rxz 85Ps 8-Seater,1461 cc,Diesel,MUV,8,21.04 kmpl
+Renault,Lodgy,85 Ps Rxe 7 Seater,1461 cc,Diesel,MUV,7,21.04 kmpl
+Volkswagen,Vento,Trendline 1.6 (P),1598 cc,Petrol,Sedan,5,12.1 kmpl
+Volkswagen,Vento,Highline 1.6 (P),1598 cc,Petrol,Sedan,5,
+Volkswagen,Vento,Comfortline 1.6 (P),1598 cc,Petrol,Sedan,5,
+Volkswagen,Vento,Highline 1.2 (P) Dsg,1197 cc,Petrol,Sedan,5,
+Volkswagen,Vento,Highline Plus 1.2 (P) Dsg,1197 cc,Petrol,Sedan,5,
+Volkswagen,Vento,Trendline 1.5 (D),1498 cc,Diesel,Sedan,5,
+Volkswagen,Vento,Comfortline 1.5 (D),1498 cc,Diesel,Sedan,5,
+Volkswagen,Vento,Highline 1.5 (D),1498 cc,Diesel,Sedan,5,
+Volkswagen,Vento,Highline 1.5 (D) Dsg,1498 cc,Diesel,Sedan,5,
+Volkswagen,Vento,Highline Plus 1.5 (D) Dsg,1498 cc,Diesel,Sedan,5,
+Volkswagen,Vento,Gt Line (D),1498 cc,Diesel,Hatchback,5,19 kmpl
+Volkswagen,Vento,Gt Line (P) Dsg,1197 cc,Petrol,Hatchback,5,17 kmpl
+Mahindra,E2O Plus,P4,,Electric,Hatchback,4,80 kmpl
+Mahindra,E2O Plus,P6,,Electric,Hatchback,4,80 kmpl
+Tata,Tigor Ev,Xm+,,Electric,Sedan,5,
+Tata,Tigor Ev,Xt+,,Electric,Sedan,5,
+Tata,Tigor Ev,Xe+,,Electric,Sedan,5,
+Honda,Brv,E Petrol,1497 cc,Petrol,SUV,7,12 kmpl
+Honda,Brv,S Petrol,1497 cc,Petrol,SUV,7,12 kmpl
+Honda,Brv,V Petrol,1497 cc,Petrol,SUV,7,12 kmpl
+Honda,Brv,Vx Petrol,1497 cc,Petrol,SUV,7,12 kmpl
+Honda,Brv,V Cvt Petrol,1497 cc,Petrol,SUV,7,12 kmpl
+Honda,Brv,S Diesel,1498 cc,Diesel,SUV,7,16.2 kmpl
+Honda,Brv,V Diesel,1498 cc,Diesel,SUV,7,16.2 kmpl
+Honda,Brv,Vx Diesel,1498 cc,Diesel,SUV,7,16.2 kmpl
+Mahindra,Thar,Crde,2498 cc,Diesel,SUV,6,
+Mahindra,Thar,700 Special Edition,2498 cc,Diesel,SUV,6,
+Mahindra,Thar,Crde Abs,2498 cc,Diesel,SUV,6,
+Force,Gurkha,Xpedition 5 Door,2596 cc,Diesel,SUV,7,14 kmpl
+Force,Gurkha,Xplorer 3 Door,2596 cc,Diesel,SUV,5,14 kmpl
+Force,Gurkha,Xtreme,2149 cc,Diesel,SUV,5,
+Force,Gurkha,Xtreme Abs,2149 cc,Diesel,SUV,5,
+Force,Gurkha,Xpedition 3 Door,2596 cc,Diesel,SUV,7,14 kmpl
+Force,Gurkha,Xplorer 5 Door,2596 cc,Diesel,SUV,5,14 kmpl
+Maruti Suzuki,Xl6,Zeta Mt,1462 cc,Petrol,MPV,6,
+Maruti Suzuki,Xl6,Alpha Mt,1462 cc,Petrol,MPV,6,
+Maruti Suzuki,Xl6,Zeta At,1462 cc,Petrol,MPV,6,
+Maruti Suzuki,Xl6,Alpha At,1462 cc,Petrol,MPV,6,
+Fiat,Abarth Avventura,1.4 T-Jet,1368 cc,Petrol,Crossover,5,17 kmpl
+Mahindra,Tuv300 Plus,P4,2179 cc,Diesel,SUV,9,18.49 kmpl
+Mahindra,Tuv300 Plus,P6,2179 cc,Diesel,SUV,9,18.49 kmpl
+Mahindra,Tuv300 Plus,P8,2179 cc,Diesel,SUV,9,18.49 kmpl
+Mahindra,Marazzo,M2 7 Str,1497 cc,Diesel,MPV,7,
+Mahindra,Marazzo,M4 7 Str,1497 cc,Diesel,MPV,7,
+Mahindra,Marazzo,M6 7 Str,1497 cc,Diesel,MPV,7,
+Mahindra,Marazzo,M8 7 Str,1497 cc,Diesel,MPV,7,
+Mahindra,Marazzo,M2 8 Str,1497 cc,Diesel,MPV,8,
+Mahindra,Marazzo,M4 8 Str,1497 cc,Diesel,MPV,8,
+Mahindra,Marazzo,M6 8 Str,1497 cc,Diesel,MPV,8,
+Mahindra,Marazzo,M8 8 Str,1497 cc,Diesel,MPV,8,
+Mahindra,Scorpio,S3 2Wd,2523 cc,Diesel,SUV,9,11.5 kmpl
+Mahindra,Scorpio,4Wd Getaway,2179 cc,Diesel,SUV,5,8.1 kmpl
+Mahindra,Scorpio,2Wd Getaway,2179 cc,Diesel,SUV,5,9.4 kmpl
+Mahindra,Scorpio,S5 2Wd,2179 cc,Diesel,SUV,9,11.5 kmpl
+Mahindra,Scorpio,S7 120 2Wd,2179 cc,Diesel,SUV,9,11.5 kmpl
+Mahindra,Scorpio,S7 140 2Wd,2179 cc,Diesel,SUV,9,11.5 kmpl
+Mahindra,Scorpio,S11 2Wd,2179 cc,Diesel,SUV,9,11.5 kmpl
+Mahindra,Scorpio,S11 4Wd,2179 cc,Diesel,SUV,9,11.5 kmpl
+Mahindra,Scorpio,S9 2Wd,2179 cc,Diesel,SUV,9,11.5 kmpl
+Skoda,Monte Carlo,Monte Carlo 1.5 Tdi At,1498 cc,Diesel,Sedan,5,18 kmpl
+Skoda,Monte Carlo,Monte Carlo 1.6 Mpi At,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Monte Carlo,Monte Carlo 1.5 Tdi Mt,1498 cc,Diesel,Sedan,5,18 kmpl
+Skoda,Monte Carlo,Monte Carlo 1.6 Mpi Mt,1598 cc,Petrol,Sedan,5,12 kmpl
+Mahindra,Xuv500,G At,2179 cc,Petrol,SUV,7,
+Mahindra,Xuv500,W7,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W7 At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W9,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W9 At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 (O),2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 (O) At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,G At,2179 cc,Petrol,SUV,7,
+Mahindra,Xuv500,W7,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W7 At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W9,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W9 At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 (O),2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 (O) At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 (O) Awd,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W11 (O) Awd At,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,Xuv500,W3,2179 cc,Diesel,SUV,7,16 kmpl
+Mahindra,E Verito,D4,72 cc,Electric,Sedan,5,110 kmpl
+Mahindra,E Verito,D2,72 cc,Electric,Sedan,5,110 kmpl
+Mahindra,E Verito,D6,72 cc,Electric,Sedan,5,110 kmpl
+Tata,Hexa,Xm Plus 4X2,2179 cc,Diesel,SUV,7,14 kmpl
+Tata,Hexa,Xt 4X4,2179 cc,Diesel,SUV,6,14 kmpl
+Tata,Hexa,Xta 4X2,2179 cc,Diesel,SUV,6,14 kmpl
+Tata,Hexa,Xt 4X2,2179 cc,Diesel,SUV,6,14 kmpl
+Tata,Hexa,Xe 4X2,2179 cc,Diesel,SUV,7,14 kmpl
+Tata,Hexa,Xm 4X2,2179 cc,Diesel,SUV,7,14 kmpl
+Tata,Hexa,Xma 4X2,2179 cc,Diesel,SUV,7,14 kmpl
+Toyota,Innova Crysta,2.4 Gx 7 Str,2393 cc,Diesel,MUV,7,12 kmpl
+Toyota,Innova Crysta,2.4 Vx 7 Str,2393 cc,Diesel,MUV,7,12 kmpl
+Toyota,Innova Crysta,2.4 Gx 8 Str,2393 cc,Diesel,MUV,8,12 kmpl
+Toyota,Innova Crysta,2.4 Vx 8 Str,2393 cc,Diesel,MUV,8,12 kmpl
+Toyota,Innova Crysta,2.4 Zx 7 Str,2393 cc,Diesel,MUV,7,12 kmpl
+Toyota,Innova Crysta,2.7 Gx At 8 Str,2694 cc,Petrol,MUV,8,11.2 kmpl
+Toyota,Innova Crysta,2.7 Gx At 7 Str,2694 cc,Petrol,MUV,7,11.2 kmpl
+Toyota,Innova Crysta,2.7 Zx At 7 Str,2393 cc,Petrol,MUV,7,11.2 kmpl
+Toyota,Innova Crysta,2.7 Vx 7 Str,2393 cc,Petrol,MUV,7,11.2 kmpl
+Toyota,Innova Crysta,2.7 Gx Mt 7 Str,2755 cc,Petrol,MUV,7,11.2 kmpl
+Toyota,Innova Crysta,2.7 Gx Mt 8 Str,2755 cc,Petrol,MUV,8,11.2 kmpl
+Toyota,Innova Crysta,Touring Sport 2.4 Vx 7 Str,2393 cc,Diesel,MUV,7,12 kmpl
+Toyota,Innova Crysta,Touring Sport 2.7 Vx 7 Str,2393 cc,Petrol,MUV,7,11.2 kmpl
+Toyota,Innova Crysta,Touring Sport 2.7 Zx At 7 Str,2694 cc,Petrol,MUV,7,11.2 kmpl
+Toyota,Innova Crysta,2.4 G Plus 7 Str,2393 cc,Diesel,MUV,7,12 kmpl
+Toyota,Innova Crysta,2.4 G Plus 8 Str,2393 cc,Diesel,MUV,8,12 kmpl
+Jeep,Compass,1.4 Limited At,1368 cc,Petrol,SUV,5,
+Jeep,Compass,1.4 Sport,1368 cc,Petrol,SUV,5,
+Jeep,Compass,1.4 Limited (O) At,1368 cc,Petrol,SUV,5,
+Jeep,Compass,2.0 Sport,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Longitude,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Longitude (O),1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited (O),1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited 4X4,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited (O) 4X4,1956 cc,Diesel,SUV,5,
+Jeep,Compass,1.4 Limited Plus At Petrol,1368 cc,Petrol,SUV,5,
+Jeep,Compass,2.0 Limited Plus 4X2 Diesel,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited Plus 4X4 Diesel,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Sport Plus,1956 cc,Diesel,SUV,5,
+Jeep,Compass,1.4 Sport Plus,1368 cc,Petrol,SUV,5,
+Jeep,Compass,1.4 Longitude (O) At,1368 cc,Petrol,SUV,5,
+Jeep,Compass,1.4 Limited (O) At Petrol Black Pack,1368 cc,Petrol,SUV,5,
+Jeep,Compass,2.0 Limited (O) Black Pack,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited (O) 4X4 Black Pack,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Limited Plus 4X4 At,1956 cc,Diesel,SUV,5,
+Jeep,Compass,2.0 Longitude 4X4 At,1956 cc,Diesel,SUV,5,
+Toyota,Corolla Altis,G Petrol,1798 cc,Petrol,Sedan,5,9.5 kmpl
+Toyota,Corolla Altis,G At Petrol,1798 cc,Petrol,Sedan,5,9.5 kmpl
+Toyota,Corolla Altis,Gl Petrol,1798 cc,Petrol,Sedan,5,9.5 kmpl
+Toyota,Corolla Altis,Gl Diesel,1364 cc,Diesel,Sedan,5,18.2 kmpl
+Toyota,Corolla Altis,G Diesel,1364 cc,Diesel,Sedan,5,18.4 kmpl
+Toyota,Corolla Altis,Vl At Petrol,1798 cc,Petrol,Sedan,5,9.5 kmpl
+Honda,Civic,1.8 V Cvt,1799 cc,Petrol,Sedan,5,
+Honda,Civic,1.8 Vx Cvt,1799 cc,Petrol,Sedan,5,
+Honda,Civic,1.8 Zx Cvt,1799 cc,Petrol,Sedan,5,
+Honda,Civic,1.6 Vx Mt,1597 cc,Diesel,Sedan,5,
+Honda,Civic,1.6 Zx Mt,1597 cc,Diesel,Sedan,5,
+Mg,Zs Ev,Excite,,Electric,SUV,5,
+Mg,Zs Ev,Exclusive,,Electric,SUV,5,
+Kia,Carnival,Premium 7 Str,2199 cc,Diesel,MUV,7,
+Kia,Carnival,Premium 8 Str,2199 cc,Diesel,MUV,7,
+Kia,Carnival,Prestige 7 Str,2199 cc,Diesel,MUV,7,
+Kia,Carnival,Prestige 9 (6+3) Str,2199 cc,Diesel,MUV,7,
+Kia,Carnival,Limousine 7 Str,2199 cc,Diesel,MUV,7,
+Skoda,Superb,Style 1.8 Tsi Mt,1798 cc,Petrol,Sedan,5,10.6 kmpl
+Skoda,Superb,Style 1.8 Tsi At,1798 cc,Petrol,Sedan,5,10.1 kmpl
+Skoda,Superb,L & K 1.8 Tsi At,1798 cc,Petrol,Sedan,5,"11,3 kmpl"
+Skoda,Superb,L & K 2.0 Tdi At,1968 cc,Diesel,Sedan,5,15.1 kmpl
+Skoda,Superb,Style 2.0 Tdi At,1968 cc,Diesel,Sedan,5,15.1 kmpl
+Skoda,Superb,Corporate Edition 1.8 Tsi At,1798 cc,Petrol,Sedan,5,10.1 kmpl
+Skoda,Superb,Corporate Edition 2.0 Tdi At,1968 cc,Diesel,Sedan,5,15.1 kmpl
+Volvo,V40,Kinetic,1984 cc,Diesel,Hatchback,5,"16,8 kmpl"
+Volvo,V40,R Design,1984 cc,Diesel,Hatchback,5,"16,8 kmpl"
+Toyota,Fortuner,2.8 4X2 At,2755 cc,Diesel,SUV,7,12.55 kmpl
+Toyota,Fortuner,2.8 4X2 Mt,2755 cc,Diesel,SUV,7,"12,55 kmpl"
+Toyota,Fortuner,2.8 4X4 Mt,2755 cc,Diesel,SUV,7,"12,55 kmpl"
+Toyota,Fortuner,2.8 4X4 At,2755 cc,Diesel,SUV,7,"12,55 kmpl"
+Toyota,Fortuner,2.7 4X2 At,2694 cc,Petrol,SUV,7,7.8 kmpl
+Toyota,Fortuner,2.7 4X2 Mt,2694 cc,Petrol,SUV,7,7.8 kmpl
+Toyota,Fortuner,Trd Celebratory Edition,2755 cc,Diesel,SUV,7,12.55 kmpl
+Ford,Endeavour,3.2L 4X4 At Titanium Plus,3198 cc,Diesel,SUV,7,7.7 kmpl
+Ford,Endeavour,2.2L 4X2 At Titanium Plus,2198 cc,Diesel,SUV,7,9.3 kmpl
+Ford,Endeavour,2.2L 4X2 Mt Titanium,2198 cc,Diesel,SUV,7,9.3 kmpl
+Mini,Cooper 3 Door,Cooper D,1496 cc,Diesel,Hatchback,4,
+Mini,Cooper 3 Door,Cooper S,1998 cc,Petrol,Hatchback,5,
+Skoda,Kodiaq Scout,2.0 Tdi At,1968 cc,Diesel,SUV,7,
+Bmw,X1,Sdrive20D Expedition,1995 cc,Diesel,"Crossover, SUV",5,18 kmpl
+Bmw,X1,Sdrive20D Xline,1995 cc,Diesel,"SUV, Crossover",5,18 kmpl
+Bmw,X1,Xdrive20D M Sport,1995 cc,Diesel,"SUV, Crossover",5,18 kmpl
+Bmw,X1,Sdrive20D M Sport,1995 cc,Diesel,SUV,5,
+Bmw,X1,Sdrive20I Xline,1998 cc,Petrol,"Crossover, SUV",5,15.71 kmpl
+Volvo,S60,Polestar,1969 cc,Petrol,Sedan,5,13.2 kmpl
+Volvo,S60,Momentum,1984 cc,Diesel,Sedan,5,
+Bmw,3-Series,320D Sport,1995 cc,Diesel,Sedan,5,
+Bmw,3-Series,320D Luxury Line,1995 cc,Diesel,Sedan,5,
+Bmw,3-Series,330I M Sport,1998 cc,Petrol,Sedan,5,
+Volvo,S60 Cross Country,D4,2400 cc,Diesel,"Sedan, Crossover",4,15.6 kmpl
+Audi,Q5,35 Tdi Premium Plus,1968 cc,Diesel,SUV,5,12 kmpl
+Audi,Q5,35 Tdi Technology,1968 cc,Diesel,SUV,5,12 kmpl
+Audi,Q5,45 Tfsi Premium Plus,1984 cc,Petrol,SUV,5,
+Audi,Q5,45 Tfsi Technology,1984 cc,Petrol,SUV,5,
+Land Rover Rover,Range Evoque,S,1999 cc,Diesel,SUV,5,
+Land Rover Rover,Range Evoque,Se R-Dynamic,1999 cc,Diesel,SUV,5,
+Land Rover Rover,Range Evoque,S Petrol,1997 cc,Petrol,SUV,5,
+Land Rover Rover,Range Evoque,Se R-Dynamic Petrol,1997 cc,Petrol,SUV,5,
+,Mercedes-Benz E-Class,E200,1991 cc,Petrol,Sedan,5,8.5 kmpl
+,Mercedes-Benz E-Class,E350 D,2987 cc,Diesel,Sedan,5,7.45 kmpl
+,Mercedes-Benz E-Class,E220D,2987 cc,Diesel,Sedan,5,
+,Mercedes-Benz E-Class,E 63 S Amg,5461 cc,Petrol,Sedan,4,4.5 kmpl
+,Mercedes-Benz E-Class,E200 Expression,1991 cc,Petrol,Sedan,5,8.5 kmpl
+,Mercedes-Benz E-Class,E200 Exclusive,1991 cc,Petrol,Sedan,5,8.5 kmpl
+,Mercedes-Benz E-Class,E220D Expression,2987 cc,Diesel,Sedan,5,
+,Mercedes-Benz E-Class,E220D Exclusive,2987 cc,Diesel,Sedan,5,
+Volvo,Xc60,Inscription D5,1969 cc,Diesel,SUV,5,11.7 kmpl
+Bmw,X4,Xdrive20D M Sport X,1995 cc,Diesel,SUV,5,
+Bmw,X4,Xdrive30D M Sport X,2993 cc,Diesel,SUV,5,
+Bmw,X4,Xdrive30I M Sport X,1998 cc,Petrol,SUV,5,
+Jeep,Wrangler,Unlimited,1999 cc,Petrol,SUV,5,17.5 kmpl
+,Mercedes-Benz C-Class Cabriolet,C300,1991 cc,Petrol,Convertible,4,
+Bmw,Z4 Roadster,Sdrive 20I,1998 cc,Petrol,"Sports, Convertible",2,
+Bmw,Z4 Roadster,M 40I,2998 cc,Petrol,"Sports, Convertible",2,
+,Mercedes-Benz V-Class,Expression Elwb,2143 cc,Diesel,MUV,7,
+,Mercedes-Benz V-Class,Exclusive Lwb,2143 cc,Diesel,MUV,6,
+,Mercedes-Benz V-Class,Elite,1950 cc,Diesel,MPV,6,
+Audi,Q7,45 Tdi Premium Plus,2967 cc,Diesel,SUV,7,9.3 kmpl
+Audi,Q7,45 Tdi Technology Pack,2967 cc,Diesel,SUV,7,9.3 kmpl
+Audi,Q7,40 Tfsi Quattro Premium Plus,1984 cc,Petrol,SUV,7,
+Audi,Q7,40 Tfsi Quattro Technology Pack,1984 cc,Petrol,SUV,7,
+Audi,Q7,45 Tdi Black Styling,2967 cc,Diesel,SUV,7,9.3 kmpl
+Audi,Q7,40 Tfsi Quattro Black Styling,1984 cc,Petrol,SUV,7,
+Land Rover Rover,Range Evoque Convertible,2.0 Hse Dynamic,1998 cc,Petrol,Convertible,4,15.68 kmpl
+Land Rover Rover,Range Velar,2.0 Diesel R-Dynamic S,1999 cc,Diesel,SUV,5,15.68 kmpl
+Land Rover Rover,Range Velar,2.0 Petrol R-Dynamic S,1997 cc,Petrol,SUV,5,12.63 kmpl
+,Mercedes-Benz E-Class All Terrain,E 220D,1950 cc,Diesel,SUV,5,
+Volvo,Xc90,D5 Inscription,1969 cc,Diesel,SUV,7,13.2 kmpl
+Volvo,Xc90,D5 Momentum,1969 cc,Diesel,SUV,7,13.2 kmpl
+Volvo,Xc90,T8 Excellence,1969 cc,Hybrid,SUV,4,5 kmpl
+Volvo,Xc90,T8 Inscription,1969 cc,Hybrid,SUV,7,
+Volvo,Xc90,D5 R-Design,1969 cc,Diesel,SUV,7,13.2 kmpl
+Land Rover Rover,Range Sport,5.0L V8 Svr Petrol,4999 cc,Petrol,SUV,5,
+Land Rover Rover,Range Sport,2.0L S Petrol,1997 cc,Petrol,SUV,7,
+Land Rover Rover,Range Sport,2.0L Se Petrol,1997 cc,Petrol,SUV,7,
+Land Rover Rover,Range Sport,3.0L V6 Se Petrol,2995 cc,Petrol,SUV,7,
+Land Rover Rover,Range Sport,2.0L Hse Petrol,1997 cc,Petrol,SUV,7,
+Land Rover Rover,Range Sport,3.0L V6 Hse Petrol,2995 cc,Petrol,SUV,7,
+Land Rover Rover,Range Sport,5.0L V8 Autobiography Dynamic Petrol,4999 cc,Petrol,SUV,5,
+Land Rover Rover,Range Sport,3.0L Tdv6 S Diesel,2993 cc,Diesel,SUV,5,
+Land Rover Rover,Range Sport,3.0L Tdv6 Se Diesel,2993 cc,Diesel,SUV,5,
+Land Rover Rover,Range Sport,4.4L Sdv8 Hse Diesel,4367 cc,Diesel,SUV,7,5.9 kmpl
+Jaguar,Xj,3.0L,2993 cc,Diesel,Sedan,5,9.5 kmpl
+Jaguar,Xj,3.0L Portfolio,2993 cc,Diesel,Sedan,5,9.5 kmpl
+Jaguar,Xj,50,2993 cc,Diesel,Sedan,5,9.5 kmpl
+Porsche,Cayenne,E-Hybrid,2995 cc,Hybrid,SUV,5,
+Porsche,Cayenne,Turbo,3996 cc,Petrol,SUV,5,
+Porsche,Cayenne,Base,2995 cc,Petrol,SUV,5,
+Maserati,Ghibli,Diesel,2987 cc,Diesel,,5,
+Maserati,Ghibli,Gransport,2987 cc,Diesel,,5,
+Maserati,Ghibli,Granlusso,2987 cc,Diesel,,5,
+Toyota,Land Cruiser,Vx,4461 cc,Diesel,SUV,7,5.3 kmpl
+Audi,Rs7,Sportback,3993 cc,Petrol,"Sedan, Coupe",4,5.6 kmpl
+Land Rover Rover,Range,5.0L V8 Autobiography Petrol,4999 cc,Petrol,SUV,7,4.4 kmpl
+Land Rover Rover,Range,5.0L V8 Svautobiography Dynamic Petrol,4999 cc,Petrol,SUV,5,4.4 kmpl
+Land Rover Rover,Range,3.0L V6 Vogue Lwb Petrol,2995 cc,Petrol,SUV,7,8.1 kmpl
+Land Rover Rover,Range,5.0L V8 Svautobiography Lwb Petrol,4999 cc,Petrol,SUV,5,8 kmpl
+Land Rover Rover,Range,3.0L Tdv6 Vogue Diesel,2993 cc,Diesel,SUV,5,
+Land Rover Rover,Range,3.0L Tdv6 Vogue Lwb Diesel,2993 cc,Diesel,SUV,7,
+Land Rover Rover,Range,4.4L Sdv8 Autobiography Lwb Diesel,4367 cc,Diesel,SUV,7,
+Land Rover Rover,Range,4.4L Sdv8 Svautobiography Lwb Diesel,4367 cc,Diesel,SUV,4,8.69 kmpl
+Land Rover Rover,Range,4.4L Sdv8 Vogue Se Lwb Diesel,4367 cc,Diesel,SUV,7,
+Land Rover Rover,Range,3.0L V6 Vogue Se Lwb Petrol,2995 cc,Petrol,SUV,7,8.1 kmpl
+Maserati,Grancabrio,Standard,4691 cc,Petrol,Convertible,4,4 kmpl
+,Mercedes-Benz Amg-Gt,S,3982 cc,Petrol,Coupe,2,5 kmpl
+,Mercedes-Benz Amg-Gt,R,3982 cc,Petrol,Coupe,2,5 kmpl
+,Mercedes-Benz Amg-Gt,Roadster,3982 cc,Petrol,Coupe,2,5 kmpl
+,Mercedes-Benz Amg Gt 4-Door Coupe,63 S 4Matic+,,Petrol,Coupe,4,
+Lamborghini,Huracan,Lp 610-4,5204 cc,Petrol,Coupe,2,5.6 kmpl
+Lamborghini,Huracan,Lp 580-2,5204 cc,Petrol,Coupe,2,5.8 kmpl
+Lamborghini,Huracan,Avio,5204 cc,Petrol,Coupe,2,10.6 kmpl
+Lamborghini,Huracan,Performante,5204 cc,Petrol,Coupe,2,5.6 kmpl
+Lamborghini,Huracan,Lp 580-2 Spyder,5204 cc,Petrol,Coupe,2,5.8 kmpl
+Lamborghini,Huracan,Lp 610-4 Spyder,5204 cc,Petrol,Coupe,2,5.6 kmpl
+Lamborghini,Huracan,Evo,5204 cc,Petrol,Coupe,2,5.6 kmpl
+Lamborghini,Huracan,Evo Spyder,5204 cc,Petrol,Convertible,2,5.6 kmpl
+Lamborghini,Huracan,Evo Rwd,5204 cc,Petrol,Coupe,2,5.6 kmpl
+Ferrari,488 Gtb,Std,3902 cc,Petrol,Coupe,2,3.2 kmpl
+Ferrari,488 Gtb,Spider,3902 cc,Petrol,Coupe,2,3.2 kmpl
+Ferrari,Gtc4 Lusso,V8 T,3900 cc,Petrol,Coupe,4,
+Ferrari,Gtc4 Lusso,V12,6262 cc,Petrol,Coupe,4,
+Lamborghini,Aventador,Lp 700-4,6498 cc,Petrol,Convertible,2,3 kmpl
+Lamborghini,Aventador,Lp700-4 Roadster,6498 cc,Petrol,Convertible,2,3.6 kmpl
+Lamborghini,Aventador,S,6498 cc,Petrol,Coupe,2,3.6 kmpl
+,Rolls-Royce Dawn,Convertible,6598 cc,Petrol,Convertible,4,7.9 kmpl
+,Rolls-Royce Drophead Coupe,Phantom,6749 cc,Petrol,Convertible,4,4.38 kmpl
+Maruti Suzuki,Omni,5 Str Bs-Iv,796 cc,Petrol,MPV,5,13 kmpl
+Maruti Suzuki,Omni,E 8 Str Bs-Iv,796 cc,Petrol,MPV,8,13 kmpl
+,Go+,Datsun D,1198 cc,Petrol,MPV,7,12.8 kmpl
+,Go+,Datsun T,1198 cc,Petrol,MPV,7,12.8 kmpl
+,Go+,Datsun T (O),1198 cc,Petrol,MPV,7,16.3 kmpl
+,Go+,Datsun A (O),1198 cc,Petrol,MPV,7,20.62 kmpl
+,Go+,Datsun A,1198 cc,Petrol,MPV,7,20.62 kmpl
+,Go+,Datsun T Vdc,1198 cc,Petrol,MPV,7,12.8 kmpl
+,Go+,Datsun T (O) Vdc,1198 cc,Petrol,MPV,7,16.3 kmpl
+,Go+,Datsun T Cvt,1198 cc,Petrol,MPV,7,12.8 kmpl
+,Go+,Datsun T (O) Cvt,1198 cc,Petrol,MPV,7,16.3 kmpl
+Fiat,Punto Evo Pure,1.2L Fire Dynamic,1172 cc,Petrol,Hatchback,5,12 kmpl
+Fiat,Punto Evo Pure,1.3,1248 cc,Diesel,Hatchback,5,
+Ford,Figo,Ambiente 1.2 Ti-Vct,1194 cc,Petrol,Hatchback,5,
+Ford,Figo,Ambiente 1.5 Tdci,1498 cc,Diesel,Hatchback,5,17 kmpl
+Ford,Figo,Titanium 1.2 Ti-Vct,1196 cc,Petrol,Hatchback,5,
+Ford,Figo,Titanium1.5 Tdci,1498 cc,Diesel,Hatchback,5,
+Ford,Figo,Titanium Blu 1.2 Ti-Vct,1194 cc,Petrol,Hatchback,5,
+Ford,Figo,Titanium Blu 1.5 Tdci,1498 cc,Diesel,Hatchback,5,
+Maruti Suzuki,Baleno,1.3 Delta,1248 cc,Diesel,Hatchback,5,27.39 kmpl
+Maruti Suzuki,Baleno,1.3 Alpha,1248 cc,Diesel,Hatchback,5,27.39 kmpl
+Maruti Suzuki,Baleno,1.3 Sigma,1248 cc,Diesel,Hatchback,5,27.39 kmpl
+Maruti Suzuki,Baleno,1.3 Zeta,1248 cc,Diesel,Hatchback,5,27.39 kmpl
+Maruti Suzuki,Baleno,1.2 Alpha,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Alpha Cvt,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Delta,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Delta Cvt,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Sigma,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Zeta,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Delta Dualjet,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Zeta Dualjet,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Maruti Suzuki,Baleno,1.2 Zeta Cvt,1197 cc,Petrol,Hatchback,5,21.4 kmpl
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna At,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz At,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10,1.2 Kappa Vtvt Sportz Dual Tone,1197 cc,Petrol,Hatchback,5,18.9 kmpl
+Hyundai,Grand I10,1.2 Kappa Vtvt Magna Cng,1197 cc,CNG,Hatchback,5,
+Fiat,Linea Classic,1.3 Multijet,1248 cc,Diesel,Sedan,5,16.2 kmpl
+Fiat,Linea Classic,1.4,1368 cc,Petrol,Sedan,5,11.4 kmpl
+Fiat,Linea Classic,Plus 1.3 Multijet,1248 cc,Diesel,Sedan,5,16.2 kmpl
+Nissan,Sunny,Xe Petrol,1498 cc,Petrol,Sedan,5,10.6 kmpl
+Nissan,Sunny,Xl Petrol,1498 cc,Petrol,Sedan,5,10.6 kmpl
+Nissan,Sunny,Xl Diesel,1461 cc,Diesel,Sedan,5,18 kmpl
+Nissan,Sunny,Xv Diesel,1461 cc,Diesel,Sedan,5,18 kmpl
+Nissan,Sunny,Xe Diesel,1461 cc,Diesel,Sedan,5,18 kmpl
+Nissan,Sunny,Xv Cvt,1498 cc,Petrol,Sedan,5,10.6 kmpl
+Nissan,Sunny,Special Edition Diesel,1461 cc,Diesel,Sedan,5,18 kmpl
+Maruti Suzuki,Ertiga,Lxi,1462 cc,Petrol,MPV,7,
+Maruti Suzuki,Ertiga,Zxi,1462 cc,Petrol,MPV,7,
+Maruti Suzuki,Ertiga,Vxi At,1462 cc,Petrol,MUV,7,
+Maruti Suzuki,Ertiga,Zxi Plus,1462 cc,Petrol,MUV,7,
+Maruti Suzuki,Ertiga,Vxi,1462 cc,Petrol,MUV,7,
+Maruti Suzuki,Ertiga,Zxi At,1462 cc,Petrol,MPV,7,
+Maruti Suzuki,Ertiga,1.5L Vdi,1498 cc,Diesel,MPV,7,
+Maruti Suzuki,Ertiga,1.5L Zdi,1498 cc,Diesel,MPV,7,
+Maruti Suzuki,Ertiga,1.5L Zdi Plus,1498 cc,Diesel,MPV,7,
+Maruti Suzuki,Ertiga,Vxi Cng (Cng +,1462 cc,CNG + Petrol,MUV,7,
+Maruti Suzuki,Baleno Rs,Rs 1.0,998 cc,Petrol,Hatchback,5,21.4 kmpl
+Honda,Wr-V,Vx Diesel,1498 cc,Diesel,SUV,5,25.5 kmpl
+Honda,Wr-V,Vx Petrol,1199 cc,Petrol,SUV,5,17.5 kmpl
+Honda,Wr-V,S Diesel,1498 cc,Diesel,SUV,5,25.5 kmpl
+Honda,Wr-V,S Petrol,1199 cc,Petrol,SUV,5,17.5 kmpl
+Honda,Wr-V,Edge Plus Edition Diesel,1498 cc,Diesel,SUV,5,25.5 kmpl
+Honda,Wr-V,Edge Plus Edition Petrol,1199 cc,Petrol,SUV,5,17.5 kmpl
+Honda,Wr-V,Exclusive Edition Diesel,1498 cc,Diesel,SUV,5,25.5 kmpl
+Honda,Wr-V,Exclusive Edition Petrol,1199 cc,Petrol,SUV,5,17.5 kmpl
+Honda,Wr-V,V Diesel,1498 cc,Diesel,SUV,5,25.5 kmpl
+Mahindra,Tuv300,T4 Plus,1493 cc,Diesel,SUV,7,18.49 kmpl
+Mahindra,Tuv300,T6 Plus,1493 cc,Diesel,SUV,7,18.49 kmpl
+Mahindra,Tuv300,T8,1493 cc,Diesel,SUV,7,18.49 kmpl
+Mahindra,Tuv300,T10,1493 cc,Diesel,SUV,7,18.49 kmpl
+Mahindra,Tuv300,T10 (O),1493 cc,Diesel,SUV,7,18.49 kmpl
+Mahindra,Tuv300,T10 Dual Tone,1493 cc,Diesel,SUV,7,18.49 kmpl
+Mahindra,Tuv300,T10 (O) Dual Tone,1493 cc,Diesel,SUV,7,18.49 kmpl
+Maruti Suzuki,S-Cross,1.3L Sigma,1248 cc,Diesel,Crossover,5,23.65 kmpl
+Maruti Suzuki,S-Cross,1.3L Delta,1248 cc,Diesel,Crossover,5,23.65 kmpl
+Maruti Suzuki,S-Cross,1.3L Zeta,1248 cc,Diesel,Crossover,5,23.65 kmpl
+Maruti Suzuki,S-Cross,1.3L Alpha,1248 cc,Diesel,Crossover,5,23.65 kmpl
+Renault,Captur,Rxe Petrol,1498 cc,Petrol,SUV,5,
+Renault,Captur,Rxe Diesel,1461 cc,Diesel,SUV,5,
+Renault,Captur,Platine Diesel Dual Tone,1461 cc,Diesel,SUV,5,
+Renault,Captur,Platine Petrol Dual Tone,1498 cc,Petrol,SUV,5,
+Mahindra,Xylo,D2 Bs-Iv,2489 cc,Diesel,SUV,7,10.7 kmpl
+Mahindra,Xylo,D4 Bs-Iv,2489 cc,Diesel,SUV,7,10.3 kmpl
+Mahindra,Xylo,H4 Bs-Iv,2179 cc,Diesel,SUV,7,11.4 kmpl
+Mahindra,Xylo,H4 Abs Bs-Iv,2179 cc,Diesel,SUV,7,11.4 kmpl
+Mahindra,Xylo,H8 Abs Airbags Bs-Iv,2179 cc,Diesel,SUV,8,11.4 kmpl
+Kia,Seltos,Hte 1.5,1497 cc,Petrol,SUV,5,
+Kia,Seltos,Htk 1.5,1497 cc,Petrol,SUV,5,
+Kia,Seltos,Htk Plus 1.5,1497 cc,Petrol,SUV,5,
+Kia,Seltos,Htx 1.5,1497 cc,Petrol,SUV,5,
+Kia,Seltos,Htx Cvt 1.5,1497 cc,Petrol,SUV,5,
+Kia,Seltos,Hte 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Kia,Seltos,Htk 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Kia,Seltos,Htk Plus 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Kia,Seltos,Htk Plus At 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Kia,Seltos,Htx Plus 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Kia,Seltos,Htx Plus At 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Kia,Seltos,Gtk 1.4,1353 cc,Petrol,SUV,5,
+Kia,Seltos,Gtx 1.4,1353 cc,Petrol,SUV,5,
+Kia,Seltos,Gtx At 1.4,1353 cc,Petrol,SUV,5,
+Kia,Seltos,Gtx Plus 1.4,1353 cc,Petrol,SUV,5,
+Kia,Seltos,Htx 1.5 Diesel,1493 cc,Diesel,SUV,5,
+Nissan,Terrano,Xe D 85Ps,1461 cc,Diesel,SUV,5,17.1 kmpl
+Nissan,Terrano,Xv D Premium 110 Ps Amt,1461 cc,Diesel,SUV,5,16 kmpl
+Nissan,Terrano,Xl (P),1598 cc,Petrol,SUV,5,10.1 kmpl
+Nissan,Terrano,Xl D(O),1461 cc,Diesel,SUV,5,17.1 kmpl
+Nissan,Terrano,Xv D Premium 110 Ps,1461 cc,Diesel,SUV,5,16 kmpl
+Nissan,Terrano,Sport Edition,1461 cc,Diesel,SUV,5,17.1 kmpl
+Tata,Safari Storme,2.2 Lx 4X2,2179 cc,Diesel,SUV,7,10.8 kmpl
+Tata,Safari Storme,2.2 Ex 4X2,2179 cc,Diesel,SUV,7,10.8 kmpl
+Tata,Safari Storme,2.2 Vx 4X2 Varicor 400,2179 cc,Diesel,SUV,7,10.8 kmpl
+Tata,Safari Storme,2.2 Vx 4X4 Varicor 400,2179 cc,Diesel,SUV,7,"13,93 kmpl"
+Mg,Hector,1.5L Style,1500 cc,Petrol,SUV,5,
+Mg,Hector,2.0L Style,2000 cc,Diesel,SUV,5,
+Mg,Hector,2.0L Super,2000 cc,Diesel,SUV,5,
+Mg,Hector,2.0L Smart,2000 cc,Diesel,SUV,5,
+Mg,Hector,2.0L Sharp,2000 cc,Diesel,SUV,5,
+Mg,Hector,1.5L Super,1500 cc,Petrol,SUV,5,
+Mg,Hector,1.5L Super Hybrid,1500 cc,Hybrid,SUV,5,
+Mg,Hector,1.5L Sharp Hybrid,1500 cc,Hybrid,SUV,5,
+Mg,Hector,1.5L Smart Hybrid,1500 cc,Hybrid,SUV,5,
+Mg,Hector,1.5L Smart Dct,1500 cc,Petrol,SUV,5,
+Mg,Hector,1.5L Sharp Dct,1500 cc,Petrol,SUV,5,
+Tata,Nexon Ev,Xm,,Electric,SUV,5,
+Tata,Nexon Ev,Xz Plus,,Electric,SUV,5,
+Tata,Nexon Ev,Xz Plus Lux,,Electric,SUV,5,
+Hyundai,Elantra,S,1999 cc,Petrol,Sedan,5,13.1 kmpl
+Hyundai,Elantra,Sx,1999 cc,Petrol,Sedan,5,13.1 kmpl
+Hyundai,Elantra,Sx At,1999 cc,Petrol,Sedan,5,13.1 kmpl
+Hyundai,Elantra,Sx(O) At,1999 cc,Petrol,Sedan,5,13.1 kmpl
+Hyundai,Tucson,2Wd Mt Diesel,1995 cc,Diesel,SUV,5,"16,38 kmpl"
+Hyundai,Tucson,2Wd Mt Petrol,1999 cc,Petrol,SUV,5,"13,3 kmpl"
+Hyundai,Tucson,2Wd At Gl Diesel,1995 cc,Diesel,SUV,5,"16,38 kmpl"
+Hyundai,Tucson,2Wd At Gl Petrol,1999 cc,Petrol,SUV,5,"13,3 kmpl"
+Hyundai,Tucson,4Wd At Gls Diesel,1995 cc,Diesel,SUV,5,16.38 kmpl
+Hyundai,Tucson,2Wd At Gls Petrol,1999 cc,Petrol,SUV,5,13.3 kmpl
+Hyundai,Tucson,2Wd At Gl(O) Petrol,1999 cc,Petrol,SUV,5,13.3 kmpl
+Hyundai,Tucson,2Wd At Gl(O) Diesel,1995 cc,Diesel,SUV,5,16.38 kmpl
+Volkswagen,Passat,2.0 Tdi Comfortline,1968 cc,Diesel,Sedan,5,
+Volkswagen,Passat,2.0 Tdi Highline,1968 cc,Diesel,Sedan,5,
+Volkswagen,Passat,2.0 Tdi Comfortline Connect,1968 cc,Diesel,Sedan,5,
+Volkswagen,Passat,2.0 Tdi Highline Connect,1968 cc,Diesel,Sedan,5,
+,Mercedes-Benz A-Class,180,1595 cc,Petrol,Hatchback,5,12.03 kmpl
+,Mercedes-Benz A-Class,200D,2143 cc,Diesel,Hatchback,5,12.03 kmpl
+Volvo,V40 Cross Country,D3,1984 cc,Diesel,Hatchback,5,13.05 kmpl
+Volvo,V40 Cross Country,T4,1596 cc,Petrol,Hatchback,5,12 kmpl
+Mini,Countryman,Cooper S,1998 cc,Petrol,Hatchback,5,
+Mini,Countryman,Cooper Sd,1998 cc,Diesel,Hatchback,5,
+Mini,Countryman,Cooper S Jcw Inspired,1998 cc,Petrol,Hatchback,5,
+Mini,Countryman,Black Edition,1998 cc,Petrol,Hatchback,5,
+,Mercedes-Benz C-Class,C 220D Prime,1950 cc,Diesel,Sedan,5,
+,Mercedes-Benz C-Class,C 220D Progressive,1950 cc,Diesel,Sedan,5,
+,Mercedes-Benz C-Class,C 300D Amg Line,1950 cc,Diesel,Sedan,5,
+,Mercedes-Benz C-Class,C 43 Amg,3982 cc,Petrol,Coupe,5,
+,Mercedes-Benz C-Class,C 200 Prime,1497 cc,Petrol,Sedan,5,
+,Mercedes-Benz C-Class,C 200 Progressive,1497 cc,Petrol,Sedan,5,
+Toyota,Prius,Z8,1798 cc,Hybrid,Sedan,5,15.1 kmpl
+Lexus,Es,300H,2487 cc,Hybrid,Sedan,5,17.8 kmpl
+Lexus,Nx 300H,F-Sport,2494 cc,Petrol,SUV,5,
+Lexus,Nx 300H,Luxury,2494 cc,Petrol,SUV,5,
+Jaguar,F-Pace,Prestige,1999 cc,Diesel,SUV,5,21.27 kmpl
+Jaguar,F-Pace,Prestige Petrol,1997 cc,Petrol,SUV,5,
+Volvo,V90 Cross Country,D5 Inscription,1969 cc,Diesel,SUV,5,13.2 kmpl
+Audi,A5 Cabriolet,2.0 Tdi,1968 cc,Diesel,Convertible,4,
+,Mercedes-Benz Gle,300D 4Matic,1950 cc,Diesel,SUV,5,
+,Mercedes-Benz Gle,400D 4Matic Hip Hop Edition,2925 cc,Diesel,SUV,5,
+,Mercedes-Benz Cls,300D,1950 cc,Diesel,Sedan,5,
+Bmw,X7,Xdrive 40I,2998 cc,Petrol,SUV,7,
+Bmw,X7,Xdrive30D Dpe Signature,2993 cc,Diesel,SUV,7,
+Bmw,M4,Coupe,2979 cc,Petrol,Coupe,4,7.32 kmpl
+Porsche,911,Carrera S,2981 cc,Petrol,Coupe,4,7.9 kmpl
+Porsche,911,Carrera S Cabriolet,2981 cc,Petrol,Convertible,4,11.6 kmpl
+Nissan,Gtr,3.8 V6,3799 cc,Petrol,Coupe,4,9 kmpl
+Aston Martin,Vantage,Coupe,3982 cc,Petrol,Coupe,2,5 kmpl
+Aston Martin,Rapide,Luxe,5935 cc,Petrol,Sedan,4,9.1 kmpl
+Ferrari,812 Superfast,Superfast,6496 cc,Petrol,Coupe,2,
+Maruti Suzuki,Alto 800 Tour,H1,796 cc,Petrol,Hatchback,5,18 kmpl
+Maruti Suzuki,Alto 800 Tour,H1 (O),796 cc,Petrol,Hatchback,5,18 kmpl
+Hyundai,Grand I10 Nios,Magna 1.2 Crdi,1186 cc,Diesel,Hatchback,5,20.7 kmpl
+Hyundai,Grand I10 Nios,Era 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Magna 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Magna Amt 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Sportz 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Sportz Amt 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Sportz Dual Tone 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Asta 1.2 Vtvt,1197 cc,Petrol,Hatchback,5,
+Hyundai,Grand I10 Nios,Sportz Amt 1.2 Crdi,1186 cc,Diesel,Hatchback,5,
+Hyundai,Grand I10 Nios,Asta 1.2 Crdi,1186 cc,Diesel,Hatchback,5,
+Hyundai,Xcent,S 1.2,1197 cc,Petrol,Sedan,5,15.7 kmpl
+Hyundai,Xcent,S At 1.2,1197 cc,Petrol,Sedan,5,15.7 kmpl
+Hyundai,Xcent,Sx 1.2,1197 cc,Petrol,Sedan,5,15.7 kmpl
+Hyundai,Xcent,Sx 1.2 (O),1197 cc,Petrol,Sedan,5,15.7 kmpl
+Hyundai,Xcent,S 1.2 Crdi,1120 cc,Diesel,Sedan,5,19 kmpl
+Hyundai,Xcent,E,1197 cc,Petrol,Sedan,5,15.7 kmpl
+Hyundai,Xcent,Sx 1.2 Crdi,1120 cc,Diesel,Sedan,5,19 kmpl
+Hyundai,Xcent,Sx 1.2 Crdi (O),1120 cc,Diesel,Sedan,5,19 kmpl
+Hyundai,Xcent,E Crdi,1197 cc,Diesel,Sedan,5,19 kmpl
+Nissan,Micra,Xl (O) Cvt,1198 cc,Petrol,Hatchback,5,
+Nissan,Micra,Xv Cvt,1198 cc,Petrol,Hatchback,5,
+Nissan,Micra,Xld (O),1461 cc,Diesel,Hatchback,5,
+Nissan,Micra,Xvd,1461 cc,Diesel,Hatchback,5,19.5 kmpl
+Mahindra,Bolero,Zlx,2523 cc,Diesel,SUV,7,9.4 kmpl
+Mahindra,Bolero,Slx,2523 cc,Diesel,SUV,7,12.3 kmpl
+Mahindra,Bolero,Sle,2523 cc,Diesel,SUV,7,12.3 kmpl
+Mahindra,Bolero,Ex,2523 cc,Diesel,SUV,7,9.4 kmpl
+Mahindra,Bolero,Ex Non Ac,2523 cc,Diesel,SUV,7,9.4 kmpl
+Maruti Suzuki,Ciaz,1.3L Alpha Smart Hybrid,1248 cc,Diesel,Sedan,5,28.09 kmpl
+Maruti Suzuki,Ciaz,1.3L Sigma Smart Hybrid,1248 cc,Diesel,Sedan,5,28.09 kmpl
+Maruti Suzuki,Ciaz,1.3L Delta Smart Hybrid,1248 cc,Diesel,Sedan,5,28.09 kmpl
+Maruti Suzuki,Ciaz,1.3L Zeta Smart Hybrid,1248 cc,Diesel,Sedan,5,28.09 kmpl
+Maruti Suzuki,Ciaz,1.5L Sigma Smart Hybrid,1462 cc,Petrol,Sedan,5,
+Maruti Suzuki,Ciaz,1.5L Delta Smart Hybrid,1462 cc,Petrol,Sedan,5,
+Maruti Suzuki,Ciaz,1.5L Zeta Smart Hybrid,1462 cc,Petrol,Sedan,5,21.56 kmpl
+Maruti Suzuki,Ciaz,1.5L Alpha Smart Hybrid,1462 cc,Petrol,Sedan,5,
+Maruti Suzuki,Ciaz,1.5L Delta At Smart Hybrid,1462 cc,Petrol,Sedan,5,
+Maruti Suzuki,Ciaz,1.5L Zeta At Smart Hybrid,1462 cc,Petrol,Sedan,5,
+Maruti Suzuki,Ciaz,1.5L Alpha At Smart Hybrid,1462 cc,Petrol,Sedan,5,
+Maruti Suzuki,Ciaz,1.5L Alpha,1498 cc,Diesel,Sedan,5,26.82 kmpl
+Maruti Suzuki,Ciaz,1.5L Delta,1498 cc,Diesel,Sedan,5,26032 kmpl
+Maruti Suzuki,Ciaz,1.5L Zeta,1498 cc,Diesel,Sedan,5,26.32 kmpl
+Skoda,Rapid,1.6 Mpi Ambition,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,1.5 Tdi Cr Active,1498 cc,Diesel,Sedan,5,14.5 kmpl
+Skoda,Rapid,1.6 Mpi Active,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,1.5 Tdi Cr Ambition,1498 cc,Diesel,Sedan,5,14.5 kmpl
+Skoda,Rapid,1.5 Tdi Cr Ambition At,1498 cc,Diesel,Sedan,5,14.5 kmpl
+Skoda,Rapid,1.6 Mpi Style At,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,1.5 Tdi Cr Style At,1498 cc,Diesel,Sedan,5,18 kmpl
+Skoda,Rapid,1.5 Tdi Cr Style,1498 cc,Diesel,Sedan,5,18 kmpl
+Skoda,Rapid,1.6 Mpi Style,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,1.6 Mpi Ambition At,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,Onyx Mt Petrol,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,Onyx At Petrol,1598 cc,Petrol,Sedan,5,12 kmpl
+Skoda,Rapid,Onyx Mt Diesel,1498 cc,Diesel,Sedan,5,18 kmpl
+Skoda,Rapid,Onyx At Diesel,1498 cc,Diesel,Sedan,5,18 kmpl
+Fiat,Abarth Punto,1.4 T-Jet,1368 cc,Petrol,Hatchback,5,17 kmpl
+Hyundai,Creta,1.4 Crdi E Plus,1396 cc,Diesel,SUV,5,21.38 kmpl
+Hyundai,Creta,1.6 Vtvt E Plus,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,1.6 Vtvt Sx,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,1.6 Vtvt Sx (O),1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,1.6 Vtvt Sx At,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,1.6 Vtvt Sx Dual Tone,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,1.4 Crdi S,1396 cc,Diesel,SUV,5,21.38 kmpl
+Hyundai,Creta,1.6 Crdi Sx,1582 cc,Diesel,SUV,5,17.01 kmpl
+Hyundai,Creta,1.6 Crdi Sx (O),1582 cc,Diesel,SUV,5,17.01 kmpl
+Hyundai,Creta,1.6 Crdi Sx At,1582 cc,Diesel,SUV,5,17.01 kmpl
+Hyundai,Creta,1.6 Crdi Sx Dual Tone,1582 cc,Diesel,SUV,5,17.01 kmpl
+Hyundai,Creta,1.6 Crdi S At,1582 cc,Diesel,SUV,5,17.01 kmpl
+Hyundai,Creta,1.6 Vtvt Sx (O) Executive,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,1.6 Crdi Sx (O) Executive,1582 cc,Diesel,SUV,5,17.01 kmpl
+Hyundai,Creta,1.4 Crdi Ex,1396 cc,Diesel,SUV,5,21.38 kmpl
+Hyundai,Creta,1.6 Vtvt Ex,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,Sports Edition Petrol,1591 cc,Petrol,SUV,5,15.29 kmpl
+Hyundai,Creta,Sports Edition Diesel,1582 cc,Diesel,SUV,5,
+Tata,Harrier,Revotorq Xe,1956 cc,Diesel,SUV,5,
+Tata,Harrier,Revotorq Xm,1956 cc,Diesel,SUV,5,
+Tata,Harrier,Revotorq Xt,1956 cc,Diesel,Hatchback,5,
+Tata,Harrier,Revotorq Xz,1956 cc,Diesel,Hatchback,5,
+Tata,Harrier,Revotorq Xz Dual Tone,1956 cc,Diesel,Hatchback,5,
+Tata,Harrier,Revotorq Dark Edition,1956 cc,Diesel,Hatchback,5,
+Isuzu,Dmax V-Cross,Standard,2499 cc,Diesel,Pick-up,5,7.3 kmpl
+Isuzu,Dmax V-Cross,High Z,2499 cc,Diesel,Pick-up,5,7.3 kmpl
+Isuzu,Dmax V-Cross,Z Prestige,1898 cc,Diesel,Pick-up,5,7.3 kmpl
+Mitsubishi,Outlander,2.4L Outlander,2360 cc,Petrol,SUV,7,
+,Mercedes-Benz Gla-Class,200 Sport,1991 cc,Petrol,SUV,5,10 kmpl
+,Mercedes-Benz Gla-Class,200 D Style,2143 cc,Diesel,SUV,5,13.4 kmpl
+,Mercedes-Benz Gla-Class,200 D Sport,2143 cc,Diesel,SUV,5,13.4 kmpl
+,Mercedes-Benz Gla-Class,45 Amg 4Matic,1991 cc,Petrol,SUV,5,10.2 kmpl
+,Mercedes-Benz Gla-Class,220 D 4Matic,2143 cc,Diesel,SUV,5,13.4 kmpl
+,Mercedes-Benz Gla-Class,45 Aero Edition,1991 cc,Petrol,SUV,5,10.2 kmpl
+Honda,Accord Hybrid,2.0 At,1993 cc,Hybrid,Sedan,5,21 kmpl
+Bmw,5-Series,520D Luxury Line,1995 cc,Diesel,Sedan,5,8.4 kmpl
+Bmw,5-Series,530D M Sport,2993 cc,Diesel,Sedan,5,13.1 kmpl
+Bmw,5-Series,530I M Sport,1998 cc,Petrol,Sedan,5,15.01 kmpl
+Bmw,6-Series,630D Gt Luxury Line,2993 cc,Diesel,Sedan,4,
+Bmw,6-Series,630D Gt M Sport,2993 cc,Diesel,Sedan,4,
+Bmw,6-Series,630I Gt Luxury Line,4395 cc,Petrol,Coupe,4,4.45 kmpl
+Bmw,6-Series,620D Gt Luxury Line,1995 cc,Diesel,Sedan,4,
+Porsche,Macan,S,2995 cc,Petrol,SUV,5,
+Porsche,Macan,Base,1984 cc,Petrol,SUV,5,
+Jaguar,F-Type,5.0 Convertible R,5000 cc,Petrol,Convertible,,12.05 kmpl
+Jaguar,F-Type,5.0 Coupe R,5000 cc,Petrol,Coupe,2,7.81 kmpl
+Jaguar,F-Type,Svr Coupe,5000 cc,Petrol,Coupe,2,
+Jaguar,F-Type,Svr Convertible,5000 cc,Petrol,Convertible,2,
+Jaguar,F-Type,2.0L Coupe,1997 cc,Petrol,Coupe,2,
+Jaguar,F-Type,2.0L Convertible,1997 cc,Petrol,Convertible,2,
+Jaguar,F-Type,2.0 Convertible R Dynamic,1997 cc,Petrol,Convertible,2,
+Jaguar,F-Type,2.0 Coupe R Dynamic,1997 cc,Petrol,Coupe,2,
+Bmw,M5,Competition,4395 cc,Petrol,Sedan,4,
+Lexus,Lx 570,V8,5700 cc,Diesel,SUV,7,18 kmpl
+Ferrari,458 Spider,V8,3902 cc,Petrol,"Coupe, Convertible",2,3.2 kmpl
+Maruti Suzuki R,Wagon,Vxi,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,Vxi Ags,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,1.2L Zxi,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,Lxi,998 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,1.2L Vxi,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,1.2L Vxi Ags,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,1.2L Zxi Ags,1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,Lxi (O),998 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,Vxi (O),998 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,1.2L Vxi (O),1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,1.2L Vxi Ags (O),1197 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,Vxi Ags (O),998 cc,Petrol,Hatchback,5,
+Maruti Suzuki R,Wagon,Lxi Cng,998 cc,CNG,Hatchback,5,
+Maruti Suzuki R,Wagon,Lxi (O) Cng,998 cc,CNG,Hatchback,5,
+Tata,Tiago Nrg,1.2L Revotron,1199 cc,Petrol,Crossover,5,
+Tata,Tiago Nrg,1.05L Revotorq,1047 cc,Diesel,Crossover,5,
+Tata,Tiago Nrg,1.2L Revotron Amt,1199 cc,Petrol,Crossover,5,
+Mahindra,Nuvosport,N4,1493 cc,Diesel,SUV,7,13.8 kmpl
+Mahindra,Nuvosport,N6,1493 cc,Diesel,SUV,7,13.8 kmpl
+Mahindra,Nuvosport,N8,1493 cc,Diesel,SUV,7,13.8 kmpl
+Mahindra,Nuvosport,N4 +,1493 cc,Diesel,SUV,7,13.8 kmpl
+Mahindra,Nuvosport,N6 Amt,1493 cc,Diesel,SUV,7,12.8 kmpl
+Mahindra,Nuvosport,N8 Amt,1493 cc,Diesel,SUV,7,12.8 kmpl
+Nissan,Kicks,Xl Petrol,1498 cc,Petrol,SUV,5,
+Nissan,Kicks,Xv Petrol,1498 cc,Petrol,SUV,5,
+Nissan,Kicks,Xl Diesel,1461 cc,Diesel,SUV,5,
+Nissan,Kicks,Xv Diesel,1461 cc,Diesel,SUV,5,
+Nissan,Kicks,Xv Premium,1461 cc,Diesel,SUV,5,
+Nissan,Kicks,Xv Premium (O),1461 cc,Diesel,SUV,5,
+Nissan,Kicks,Xv Premium (O) Dual Tone,1461 cc,Diesel,SUV,5,
+Nissan,Kicks,Xe Diesel,1461 cc,Diesel,SUV,5,
+Tata,Winger,15S,2200 cc,Diesel,MUV,16,
+Hyundai,Kona Electric,Premium,,Electric,SUV,4,
+Toyota,Camry,Hybrid,2487 cc,Hybrid,Sedan,5,
+Audi,A5,Sportback,1968 cc,Diesel,Sedan,5,
+Land Rover,Discovery,3.0 Hse Diesel,2993 cc,Diesel,SUV,7,
+Land Rover,Discovery,3.0 Se Diesel,2993 cc,Diesel,SUV,7,
+Land Rover,Discovery,3.0 Hse Petrol,2995 cc,Petrol,SUV,7,
+Land Rover,Discovery,3.0 Se Petrol,2995 cc,Petrol,SUV,7,
+Land Rover,Discovery,3.0 S Diesel,2993 cc,Diesel,SUV,7,
+Land Rover,Discovery,3.0 S Petrol,2995 cc,Petrol,SUV,7,
+Land Rover,Discovery,3.0 Hse Luxury Diesel,2993 cc,Diesel,SUV,7,
+Land Rover,Discovery,3.0 Hse Luxury Petrol,2995 cc,Petrol,SUV,7,
+Lexus,Ls 500H,Luxury,3456 cc,Hybrid,SUV,5,
+Lexus,Ls 500H,Ultra Luxury,3456 cc,Hybrid,SUV,5,
+Lexus,Ls 500H,Distinct,3456 cc,Hybrid,SUV,5,
+,Rolls-Royce Phantom,Sedan,6749 cc,Petrol,Sedan,5,10.2 kmpl
+,Rolls-Royce Phantom,Ewb,6749 cc,Petrol,Sedan,5,10.2 kmpl
+Fiat,Punto Evo,Dynamic 1.2,1172 cc,Petrol,Hatchback,5,15.8 kmpl
+Fiat,Punto Evo,Active Multijet 1.3,1172 cc,Diesel,Hatchback,5,"21,2 kmpl"
+Fiat,Punto Evo,Dynamic Multijet 1.3,1248 cc,Diesel,Hatchback,5,"21,2 kmpl"
+Fiat,Punto Evo,Emotion Multijet 1.3,1248 cc,Diesel,Hatchback,5,"21,2 kmpl"
+Toyota,Yaris,J,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,G,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,V,1498 cc,Petrol,Sedan,5,
+Toyota,Yaris,Vx Cvt,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,G Cvt,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,J Cvt,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,V Cvt,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,Vx,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,V (O),1498 cc,Petrol,Sedan,5,
+Toyota,Yaris,J (O),1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,G (O),1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,J (O) Cvt,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,G (O) Cvt,1496 cc,Petrol,Sedan,5,
+Toyota,Yaris,V (O) Cvt,1498 cc,Petrol,Sedan,5,
+Skoda,Octavia,Ambition 1.4 Tsi,1395 cc,Petrol,Sedan,5,
+Skoda,Octavia,Ambition 2.0 Tdi Cr,1968 cc,Diesel,Sedan,5,
+Skoda,Octavia,Style 1.4 Tsi,1395 cc,Petrol,Sedan,5,
+Skoda,Octavia,Style 1.8 Tsi At,1798 cc,Petrol,Sedan,5,
+Skoda,Octavia,Style 2.0 Tdi Cr,1968 cc,Diesel,Sedan,5,
+Skoda,Octavia,Style 2.0 Tdi Cr At,1968 cc,Diesel,Sedan,5,
+Skoda,Octavia,L & K 1.8 Tsi At,1798 cc,Petrol,Sedan,5,
+Skoda,Octavia,L & K 2.0 Tdi Cr At,1968 cc,Diesel,Sedan,5,
+Skoda,Octavia,Corporate Edition 1.4 Tsi,1395 cc,Petrol,Sedan,5,
+Skoda,Octavia,Corporate Edition 2.0 Tdi,1968 cc,Diesel,Sedan,5,
+Skoda,Octavia,Onyx 1.8 Tsi Dsg,1798 cc,Petrol,Sedan,5,
+Skoda,Octavia,Onyx 2.0 Tdi Dsg,1968 cc,Diesel,Sedan,5,
+,Mercedes-Benz Glc,200 Progressive,1991 cc,Petrol,SUV,5,
+,Mercedes-Benz Glc,220D 4Matic Progressive,1950 cc,Diesel,SUV,5,
+Porsche,Cayenne Coupe,Base,2995 cc,Petrol,,,
+Porsche,Cayenne Coupe,Turbo,2995 cc,Petrol,,,
+Mahindra,Verito,1.5 D2,1461 cc,Diesel,Sedan,5,18 kmpl
+Mahindra,Verito,1.5 D4 Bs-Iv,1461 cc,Diesel,Sedan,5,18 kmpl
+Mahindra,Verito,1.5 D6 Bs-Iv,1461 cc,Diesel,Sedan,5,18 kmpl
+Mitsubishi,Pajero Sport,2.5 Mt,2477 cc,Diesel,SUV,7,6.5 kmpl
+Mitsubishi,Pajero Sport,2.5 At,2477 cc,Diesel,SUV,7,6.5 kmpl
+Mitsubishi,Pajero Sport,Limited Edition,2477 cc,Diesel,SUV,7,6.5 kmpl
+Mitsubishi,Pajero Sport,Select Plus Mt,2477 cc,Diesel,SUV,7,6.5 kmpl
+Mitsubishi,Pajero Sport,Select Plus At,2477 cc,Diesel,SUV,7,6.5 kmpl
+Bentley,Flying Spur,V8,3993 cc,Petrol,Sedan,4,2 kmpl
+Bentley,Flying Spur,W12,5998 cc,Petrol,Sedan,4,2 kmpl
+Honda,City,Sv Mt Petrol,1497 cc,Petrol,Sedan,5,14.3 kmpl
+Honda,City,V Mt Petrol,1497 cc,Petrol,Sedan,5,14.3 kmpl
+Honda,City,Vx Mt Petrol,1497 cc,Petrol,Sedan,5,14.3 kmpl
+Honda,City,Vx Cvt Petrol,1497 cc,Petrol,Sedan,5,14.3 kmpl
+Honda,City,Sv Mt Diesel,1498 cc,Diesel,Sedan,5,22.6 kmpl
+Honda,City,V Mt Diesel,1498 cc,Diesel,Sedan,5,22.6 kmpl
+Honda,City,Vx Mt Diesel,1498 cc,Diesel,Sedan,5,22.6 kmpl
+Honda,City,Zx Mt Diesel,1498 cc,Diesel,Sedan,5,22.6 kmpl
+Honda,City,Zx Cvt Petrol,1497 cc,Petrol,Sedan,5,18 kmpl
+Honda,City,V Cvt Petrol,1497 cc,Petrol,Sedan,5,14.3 kmpl
+Mitsubishi,Montero,3.2 At,3200 cc,Diesel,SUV,7,8.25 kmpl
